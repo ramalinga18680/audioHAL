@@ -1,0 +1,1072 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+AC3	libTVaudio/audio/aml_audio.h	/^    AC3,$/;"	e	enum:__anon2
+AMAUDIO2_INPUTDEVICE	libTVaudio/audio/aml_audio.c	232;"	d	file:
+AMAUDIO2_PREENABLE	libTVaudio/audio/aml_audio.c	231;"	d	file:
+AMAUDIO_IN	libTVaudio/audio/aml_audio.c	229;"	d	file:
+AMAUDIO_IOC_AUDIO_OUT_MODE	libTVaudio/audio/aml_audio.c	239;"	d	file:
+AMAUDIO_IOC_GET_PTR	libTVaudio/audio/aml_audio.c	236;"	d	file:
+AMAUDIO_IOC_GET_SIZE	libTVaudio/audio/aml_audio.c	235;"	d	file:
+AMAUDIO_IOC_MAGIC	libTVaudio/audio/aml_audio.c	234;"	d	file:
+AMAUDIO_IOC_MIC_LEFT_GAIN	libTVaudio/audio/aml_audio.c	240;"	d	file:
+AMAUDIO_IOC_MIC_RIGHT_GAIN	libTVaudio/audio/aml_audio.c	241;"	d	file:
+AMAUDIO_IOC_MUSIC_GAIN	libTVaudio/audio/aml_audio.c	242;"	d	file:
+AMAUDIO_IOC_RESET	libTVaudio/audio/aml_audio.c	237;"	d	file:
+AMAUDIO_IOC_UPDATE_APP_PTR	libTVaudio/audio/aml_audio.c	238;"	d	file:
+AMAUDIO_OUT	libTVaudio/audio/aml_audio.c	230;"	d	file:
+ANDROID_DLG_AUDIO_POLICY_MANAGER_H	DLGAudioPolicyManager.h	26;"	d
+ANDROID_OUT_BUFFER_SIZE	libTVaudio/audio/aml_audio.c	33;"	d	file:
+AUDIO_DEVICE_OUT_REMOTE_SUBMIX	libTVaudio/audio/aml_audio.c	45;"	d	file:
+AUDIO_DEVICE_OUT_SPEAKER	libTVaudio/audio/aml_audio.c	44;"	d	file:
+Aml_OMX_Codec	libTVaudio/audio/DDP_media_source.cpp	/^Aml_OMX_Codec::Aml_OMX_Codec(void) {$/;"	f	class:android::Aml_OMX_Codec
+Aml_OMX_Codec	libTVaudio/audio/DDP_media_source.h	/^class Aml_OMX_Codec {$/;"	c	namespace:android
+AudioTrackCallback	libTVaudio/audio/android_out.cpp	/^static void AudioTrackCallback(int event, void* user, void *info) {$/;"	f	file:
+AudioTrackInit	libTVaudio/audio/android_out.cpp	/^static int AudioTrackInit(void) {$/;"	f	file:
+AudioTrackRelease	libTVaudio/audio/android_out.cpp	/^static int AudioTrackRelease(void) {$/;"	f	file:
+Audio_In_Source_TYPE	libTVaudio/audio/aml_audio.c	227;"	d	file:
+BITSPERWRD	libTVaudio/audio/DDP_media_source.h	19;"	d
+BOARD_USE_USB_AUDIO	Android.mk	/^BOARD_USE_USB_AUDIO := true$/;"	m
+BS_AXE	libTVaudio/audio/DDP_media_source.h	26;"	d
+BS_BITOFFSET	libTVaudio/audio/DDP_media_source.h	28;"	d
+BS_STD	libTVaudio/audio/DDP_media_source.h	23;"	d
+BUFFSIZE	usb_audio_hw.c	45;"	d	file:
+BYTESPERWRD	libTVaudio/audio/DDP_media_source.h	18;"	d
+CAPTURE_PERIOD_COUNT	audio_hw.c	66;"	d	file:
+CAPTURE_PERIOD_COUNT	hdmi_audio_hw.c	61;"	d	file:
+CAPTURE_PERIOD_COUNT	hdmi_hw.c	54;"	d	file:
+CAPTURE_PERIOD_COUNT	libTVaudio/audio/aml_audio.c	41;"	d	file:
+CAPTURE_PERIOD_SIZE	audio_hw.c	/^static unsigned  CAPTURE_PERIOD_SIZE = DEFAULT_CAPTURE_PERIOD_SIZE;$/;"	v	file:
+CAPTURE_PERIOD_SIZE	libTVaudio/audio/aml_audio.c	39;"	d	file:
+CARD_AMLOGIC_BOARD	audio_hw.c	53;"	d	file:
+CARD_AMLOGIC_BOARD	hdmi_audio_hw.c	50;"	d	file:
+CARD_AMLOGIC_BOARD	hdmi_hw.c	45;"	d	file:
+CARD_AMLOGIC_DEFAULT	audio_hw.c	55;"	d	file:
+CARD_AMLOGIC_DEFAULT	hdmi_audio_hw.c	52;"	d	file:
+CARD_AMLOGIC_DEFAULT	hdmi_hw.c	46;"	d	file:
+CARD_AMLOGIC_USB	audio_hw.c	54;"	d	file:
+CARD_AMLOGIC_USB	hdmi_audio_hw.c	51;"	d	file:
+CC_DOUBLE_OUTPUT	libTVaudio/audio/aml_audio.h	33;"	d
+CC_DUMP_SRC_TYPE_INPUT	libTVaudio/audio/aml_audio.c	244;"	d	file:
+CC_DUMP_SRC_TYPE_IN_OUT	libTVaudio/audio/aml_audio.c	246;"	d	file:
+CC_DUMP_SRC_TYPE_OUTPUT	libTVaudio/audio/aml_audio.c	245;"	d	file:
+CC_DUMP_SRC_TYPE_OUT_IN	libTVaudio/audio/aml_audio.c	247;"	d	file:
+CC_IN_USE_I2S_DEVICE	libTVaudio/audio/aml_audio.h	29;"	d
+CC_IN_USE_SPDIF_DEVICE	libTVaudio/audio/aml_audio.h	30;"	d
+CC_OUT_MODE_DIRECT	libTVaudio/audio/aml_audio.h	22;"	d
+CC_OUT_MODE_DIRECT_MIX	libTVaudio/audio/aml_audio.h	24;"	d
+CC_OUT_MODE_INTER_MIX	libTVaudio/audio/aml_audio.h	23;"	d
+CC_OUT_USE_ALSA	libTVaudio/audio/aml_audio.h	13;"	d
+CC_OUT_USE_AMAUDIO	libTVaudio/audio/aml_audio.h	12;"	d
+CC_OUT_USE_ANDROID	libTVaudio/audio/aml_audio.h	14;"	d
+CC_SET_SWITCH_DIALOGCLARITY	libTVaudio/audio/audio_amaudio.cpp	153;"	d	file:
+CC_SET_SWITCH_SURROUND	libTVaudio/audio/audio_amaudio.cpp	152;"	d	file:
+CC_SET_SWITCH_TRUBASS	libTVaudio/audio/audio_amaudio.cpp	154;"	d	file:
+CC_SET_TYPE_DEFINITION_GAIN	libTVaudio/audio/audio_amaudio.cpp	117;"	d	file:
+CC_SET_TYPE_DIALOGCLARITY_GAIN	libTVaudio/audio/audio_amaudio.cpp	116;"	d	file:
+CC_SET_TYPE_MAX	libTVaudio/audio/audio_amaudio.cpp	119;"	d	file:
+CC_SET_TYPE_SURROUND_GAIN	libTVaudio/audio/audio_amaudio.cpp	118;"	d	file:
+CC_SET_TYPE_TRUBASS_GAIN	libTVaudio/audio/audio_amaudio.cpp	115;"	d	file:
+CC_SET_TYPE_TRUBASS_SPEAKERSIZE	libTVaudio/audio/audio_amaudio.cpp	114;"	d	file:
+CC_SINGLE_OUTPUT	libTVaudio/audio/aml_audio.h	32;"	d
+DDP_BSTRM	libTVaudio/audio/DDP_media_source.h	/^} DDP_BSTRM;$/;"	t	namespace:android	typeref:struct:android::__anon3
+DDP_Media_Source	libTVaudio/audio/DDP_media_source.cpp	/^DDP_Media_Source::DDP_Media_Source(void) {$/;"	f	class:android::DDP_Media_Source
+DDP_Media_Source	libTVaudio/audio/DDP_media_source.h	/^class DDP_Media_Source: public MediaSource {$/;"	c	namespace:android
+DDP_OUT_BUFFER_SIZE	libTVaudio/audio/aml_audio.c	34;"	d	file:
+DDP_out_buffer	libTVaudio/audio/aml_audio.c	/^struct circle_buffer DDP_out_buffer = {$/;"	v	typeref:struct:circle_buffer
+DDPerr	libTVaudio/audio/DDP_media_source.h	16;"	d
+DDPshort	libTVaudio/audio/DDP_media_source.h	15;"	d
+DDPushort	libTVaudio/audio/DDP_media_source.h	17;"	d
+DD_61937_BUFFER_SIZE	libTVaudio/audio/aml_audio.c	35;"	d	file:
+DD_out_buffer	libTVaudio/audio/aml_audio.c	/^struct circle_buffer DD_out_buffer = {$/;"	v	typeref:struct:circle_buffer
+DEFAULT_CAPTURE_PERIOD_SIZE	audio_hw.c	60;"	d	file:
+DEFAULT_IN_SAMPLE_RATE	libTVaudio/audio/aml_audio.c	37;"	d	file:
+DEFAULT_IN_SAMPLING_RATE	usb_audio_hw.c	41;"	d	file:
+DEFAULT_OUT_SAMPLE_RATE	libTVaudio/audio/aml_audio.c	36;"	d	file:
+DEFAULT_OUT_SAMPLING_RATE	audio_hw.c	/^static unsigned int  DEFAULT_OUT_SAMPLING_RATE  = 48000;$/;"	v	file:
+DEFAULT_OUT_SAMPLING_RATE	hdmi_audio_hw.c	/^static unsigned int DEFAULT_OUT_SAMPLING_RATE = 48000;$/;"	v	file:
+DEFAULT_OUT_SAMPLING_RATE	hdmi_hw.c	62;"	d	file:
+DEFAULT_OUT_SAMPLING_RATE	usb_audio_hw.c	40;"	d	file:
+DEFAULT_PERIOD_SIZE	audio_hw.c	59;"	d	file:
+DEFAULT_PERIOD_SIZE	hdmi_audio_hw.c	56;"	d	file:
+DEFAULT_PERIOD_SIZE	usb_audio_hw.c	43;"	d	file:
+DLGAudioPolicyManager	DLGAudioPolicyManager.cpp	/^DLGAudioPolicyManager::DLGAudioPolicyManager($/;"	f	class:android::DLGAudioPolicyManager
+DLGAudioPolicyManager	DLGAudioPolicyManager.h	/^class DLGAudioPolicyManager: public AudioPolicyManager$/;"	c	namespace:android
+DTS	libTVaudio/audio/aml_audio.h	/^    DTS,$/;"	e	enum:__anon2
+DTSHD	libTVaudio/audio/aml_audio.h	/^    DTSHD,$/;"	e	enum:__anon2
+DeathNotifier	libTVaudio/audio/DDP_media_source.cpp	/^        DeathNotifier() {$/;"	f	class:android::DeathNotifier
+DeathNotifier	libTVaudio/audio/DDP_media_source.cpp	/^class DeathNotifier: public IBinder::DeathRecipient$/;"	c	namespace:android	file:
+DoDumpData	libTVaudio/audio/aml_audio.c	/^static void DoDumpData(void *data_buf, int size, int aud_src_type) {$/;"	f	file:
+EAC3	libTVaudio/audio/aml_audio.h	/^    EAC3,$/;"	e	enum:__anon2
+EQ_enable	libTVaudio/audio/audio_effect_control.c	/^int (*EQ_enable)(bool enable);$/;"	v
+EQ_getParameter	libTVaudio/audio/audio_effect_control.c	/^int (*EQ_getParameter)(int *band1, int *band2, int *band3, int *band4,$/;"	v
+EQ_init	libTVaudio/audio/audio_effect_control.c	/^int (*EQ_init)(void);$/;"	v
+EQ_process	libTVaudio/audio/audio_effect_control.c	/^int (*EQ_process)(short *in, short *out, int framecount);$/;"	v
+EQ_release	libTVaudio/audio/audio_effect_control.c	/^int (*EQ_release)(void);$/;"	v
+EQ_setParameter	libTVaudio/audio/audio_effect_control.c	/^int (*EQ_setParameter)(int band1, int band2, int band3, int band4, int band5);$/;"	v
+FractionStep	audio_resampler.h	/^    unsigned int FractionStep;$/;"	m	struct:resample_para
+FractionStep	libTVaudio/audio/aml_audio.c	/^    unsigned int FractionStep;$/;"	m	struct:resample_para	file:
+GetChNum	libTVaudio/audio/DDP_media_source.cpp	/^int DDP_Media_Source::GetChNum() {$/;"	f	class:android::DDP_Media_Source
+GetDecBytes	libTVaudio/audio/DDP_media_source.cpp	/^int Aml_OMX_Codec::GetDecBytes() {$/;"	f	class:android::Aml_OMX_Codec
+GetDeviceID	libTVaudio/audio/audio_usb_check.cpp	/^static int GetDeviceID(void) {$/;"	f	namespace:android
+GetDumpDataFlag	libTVaudio/audio/aml_audio.c	/^int GetDumpDataFlag(void) {$/;"	f
+GetOutputdevice	libTVaudio/audio/aml_audio.c	/^int GetOutputdevice(void) {$/;"	f
+GetReadSpace	libTVaudio/audio/aml_audio.c	/^inline int GetReadSpace(char *WritePoint, char *ReadPoint, int buffer_size) {$/;"	f
+GetSampleRate	libTVaudio/audio/DDP_media_source.cpp	/^int DDP_Media_Source::GetSampleRate() {$/;"	f	class:android::DDP_Media_Source
+GetStreamVolume	libTVaudio/audio/audio_usb_check.cpp	/^static int GetStreamVolume(void) {$/;"	f	namespace:android
+GetUsbAudioCheckFlag	libTVaudio/audio/audio_usb_check.cpp	/^extern "C" unsigned int GetUsbAudioCheckFlag(void) {$/;"	f	namespace:android
+GetWriteSpace	libTVaudio/audio/aml_audio.c	/^inline int GetWriteSpace(char *WritePoint, char *ReadPoint, int buffer_size) {$/;"	f
+Get_DDP_Parameters	libTVaudio/audio/DDP_media_source.cpp	/^static int Get_DDP_Parameters(void *buf, int *sample_rate, int *frame_size,int *ChNum)$/;"	f	namespace:android
+Get_DD_Parameters	libTVaudio/audio/DDP_media_source.cpp	/^static int Get_DD_Parameters(void *buf, int *sample_rate, int *frame_size, int *ChNum)$/;"	f	namespace:android
+Get_Parameters	libTVaudio/audio/DDP_media_source.cpp	/^static int Get_Parameters(void *buf, int *sample_rate, int *frame_size,int *ChNum)$/;"	f	namespace:android
+Get_Stop_ReadBuf_Flag	libTVaudio/audio/DDP_media_source.cpp	/^int DDP_Media_Source::Get_Stop_ReadBuf_Flag() {$/;"	f	class:android::DDP_Media_Source
+HAL_MODULE_INFO_SYM	audio_hw.c	/^struct audio_module HAL_MODULE_INFO_SYM = {$/;"	v	typeref:struct:audio_module
+HAL_MODULE_INFO_SYM	audio_policy.c	/^struct default_ap_module HAL_MODULE_INFO_SYM = {$/;"	v	typeref:struct:default_ap_module
+HAL_MODULE_INFO_SYM	hdmi_audio_hw.c	/^struct audio_module HAL_MODULE_INFO_SYM = {$/;"	v	typeref:struct:audio_module
+HAL_MODULE_INFO_SYM	hdmi_hw.c	/^struct audio_module HAL_MODULE_INFO_SYM = {$/;"	v	typeref:struct:audio_module
+HAL_MODULE_INFO_SYM	usb_audio_hw.c	/^struct audio_module HAL_MODULE_INFO_SYM = {$/;"	v	typeref:struct:audio_module
+HPEQ_enable	libTVaudio/audio/audio_effect_control.c	/^int HPEQ_enable(bool enable) {$/;"	f
+HPEQ_getParameter	libTVaudio/audio/audio_effect_control.c	/^int HPEQ_getParameter(int EQ_user_config[]) {$/;"	f
+HPEQ_init	libTVaudio/audio/audio_effect_control.c	/^int HPEQ_init(void) {$/;"	f
+HPEQ_process	libTVaudio/audio/audio_effect_control.c	/^int HPEQ_process(short *in, short *out, int framecount) {$/;"	f
+HPEQ_release	libTVaudio/audio/audio_effect_control.c	/^int HPEQ_release(void) {$/;"	f
+HPEQ_setParameter	libTVaudio/audio/audio_effect_control.c	/^int HPEQ_setParameter(int band1, int band2, int band3, int band4, int band5) {$/;"	f
+HW_RESAMPLE_ENABLE	libTVaudio/audio/aml_audio.c	228;"	d	file:
+I2S_IN_AUDIO_TYPE	libTVaudio/audio/aml_audio.c	225;"	d	file:
+I2S_state	libTVaudio/audio/android_out.cpp	/^int I2S_state = 0;$/;"	v
+ISDD	libTVaudio/audio/DDP_media_source.h	24;"	d
+ISDDP	libTVaudio/audio/DDP_media_source.h	27;"	d
+ISystemControlService	libTVaudio/audio/DDP_media_source.cpp	56;"	d	file:
+LOCAL_CFLAGS	libTVaudio/Android.mk	/^LOCAL_CFLAGS := -DANDROID_PLATFORM_SDK_VERSION=$(PLATFORM_SDK_VERSION)  -DUSE_SYS_WRITE_SERVICE=1$/;"	m
+LOCAL_CFLAGS	libTVaudio/audio/Android.mk	/^LOCAL_CFLAGS := -DANDROID_PLATFORM_SDK_VERSION=$(PLATFORM_SDK_VERSION)$/;"	m
+LOCAL_C_INCLUDES	Android.mk	/^LOCAL_C_INCLUDES := \\$/;"	m
+LOCAL_C_INCLUDES	libTVaudio/Android.mk	/^LOCAL_C_INCLUDES := \\$/;"	m
+LOCAL_C_INCLUDES	libTVaudio/audio/Android.mk	/^LOCAL_C_INCLUDES := \\$/;"	m
+LOCAL_MODULE	Android.mk	/^		LOCAL_MODULE := audio.hdmi.$(TARGET_PRODUCT)$/;"	m
+LOCAL_MODULE	Android.mk	/^		LOCAL_MODULE := audio.usb.$(TARGET_PRODUCT)$/;"	m
+LOCAL_MODULE	Android.mk	/^	LOCAL_MODULE := audio.hdmi6.amlogic$/;"	m
+LOCAL_MODULE	Android.mk	/^	LOCAL_MODULE := audio.primary.$(TARGET_PRODUCT)$/;"	m
+LOCAL_MODULE	Android.mk	/^LOCAL_MODULE := libaudiopolicymanager$/;"	m
+LOCAL_MODULE	libTVaudio/Android.mk	/^LOCAL_MODULE := libTVaudio$/;"	m
+LOCAL_MODULE	libTVaudio/audio/Android.mk	/^LOCAL_MODULE := aml_audio_test$/;"	m
+LOCAL_MODULE_RELATIVE_PATH	Android.mk	/^		LOCAL_MODULE_RELATIVE_PATH := hw$/;"	m
+LOCAL_MODULE_RELATIVE_PATH	Android.mk	/^	LOCAL_MODULE_RELATIVE_PATH := hw$/;"	m
+LOCAL_MODULE_TAGS	Android.mk	/^		LOCAL_MODULE_TAGS := optional$/;"	m
+LOCAL_MODULE_TAGS	Android.mk	/^	LOCAL_MODULE_TAGS := optional$/;"	m
+LOCAL_MODULE_TAGS	Android.mk	/^LOCAL_MODULE_TAGS := optional$/;"	m
+LOCAL_MODULE_TAGS	libTVaudio/Android.mk	/^LOCAL_MODULE_TAGS := optional$/;"	m
+LOCAL_MODULE_TAGS	libTVaudio/audio/Android.mk	/^LOCAL_MODULE_TAGS := optional$/;"	m
+LOCAL_PATH	Android.mk	/^	LOCAL_PATH := $(call my-dir)$/;"	m
+LOCAL_PATH	libTVaudio/Android.mk	/^LOCAL_PATH:= $(call my-dir)$/;"	m
+LOCAL_PATH	libTVaudio/audio/Android.mk	/^LOCAL_PATH:= $(call my-dir)$/;"	m
+LOCAL_PRELINK_MODULE	libTVaudio/Android.mk	/^LOCAL_PRELINK_MODULE := false$/;"	m
+LOCAL_PRELINK_MODULE	libTVaudio/audio/Android.mk	/^LOCAL_PRELINK_MODULE := false$/;"	m
+LOCAL_SHARED_LIBRARIES	Android.mk	/^		LOCAL_SHARED_LIBRARIES := liblog libcutils libtinyalsa libaudioutils libutils$/;"	m
+LOCAL_SHARED_LIBRARIES	Android.mk	/^	LOCAL_SHARED_LIBRARIES := \\$/;"	m
+LOCAL_SHARED_LIBRARIES	Android.mk	/^	LOCAL_SHARED_LIBRARIES := liblog libcutils libtinyalsa libaudioutils libdl libutils$/;"	m
+LOCAL_SHARED_LIBRARIES	Android.mk	/^LOCAL_SHARED_LIBRARIES := \\$/;"	m
+LOCAL_SHARED_LIBRARIES	libTVaudio/Android.mk	/^LOCAL_SHARED_LIBRARIES := libcutils libutils libtinyalsa libdl \\$/;"	m
+LOCAL_SHARED_LIBRARIES	libTVaudio/audio/Android.mk	/^LOCAL_SHARED_LIBRARIES := libcutils libutils libtinyalsa libdl \\$/;"	m
+LOCAL_SRC_FILES	Android.mk	/^		LOCAL_SRC_FILES := \\$/;"	m
+LOCAL_SRC_FILES	Android.mk	/^	LOCAL_SRC_FILES := \\$/;"	m
+LOCAL_SRC_FILES	Android.mk	/^	LOCAL_SRC_FILES := hdmi_hw.c$/;"	m
+LOCAL_SRC_FILES	Android.mk	/^LOCAL_SRC_FILES := \\$/;"	m
+LOCAL_SRC_FILES	libTVaudio/Android.mk	/^LOCAL_SRC_FILES := \\$/;"	m
+LOCAL_SRC_FILES	libTVaudio/audio/Android.mk	/^LOCAL_SRC_FILES := \\$/;"	m
+LOGFUNC	audio_hw.c	21;"	d	file:
+LOGFUNC	audio_hw.c	23;"	d	file:
+LOGFUNC	audio_policy.c	18;"	d	file:
+LOGFUNC	hdmi_audio_hw.c	21;"	d	file:
+LOGFUNC	hdmi_audio_hw.c	23;"	d	file:
+LOGFUNC	hdmi_hw.c	21;"	d	file:
+LOGFUNC	hdmi_hw.c	23;"	d	file:
+LOG_NDEBUG	audio_hw.c	18;"	d	file:
+LOG_NDEBUG	hdmi_audio_hw.c	18;"	d	file:
+LOG_NDEBUG	hdmi_hw.c	18;"	d	file:
+LOG_NDEBUG	usb_audio_hw.c	18;"	d	file:
+LOG_NDEBUG_FUNCTION	hdmi_hw.c	19;"	d	file:
+LOG_TAG	DLGAudioPolicyManager.cpp	17;"	d	file:
+LOG_TAG	audio_hw.c	17;"	d	file:
+LOG_TAG	audio_policy.c	17;"	d	file:
+LOG_TAG	audio_resampler.c	6;"	d	file:
+LOG_TAG	hdmi_audio_hw.c	17;"	d	file:
+LOG_TAG	hdmi_hw.c	17;"	d	file:
+LOG_TAG	libTVaudio/audio/DDP_media_source.cpp	35;"	d	file:
+LOG_TAG	libTVaudio/audio/aml_audio.c	31;"	d	file:
+LOG_TAG	libTVaudio/audio/android_out.cpp	20;"	d	file:
+LOG_TAG	libTVaudio/audio/audio_amaudio.cpp	25;"	d	file:
+LOG_TAG	libTVaudio/audio/audio_effect_control.c	15;"	d	file:
+LOG_TAG	libTVaudio/audio/audio_usb_check.cpp	13;"	d	file:
+LOG_TAG	usb_audio_hw.c	17;"	d	file:
+LPCM	libTVaudio/audio/aml_audio.h	/^    LPCM = 0,$/;"	e	enum:__anon2
+MAXCHANCFGS	libTVaudio/audio/DDP_media_source.h	25;"	d
+MAXDDDATARATE	libTVaudio/audio/DDP_media_source.h	22;"	d
+MAXFSCOD	libTVaudio/audio/DDP_media_source.h	21;"	d
+MAX_CARD_NUM	hdmi_audio_hw.c	404;"	d	file:
+MAX_CARD_NUM	hdmi_hw.c	112;"	d	file:
+MAX_PREPROCESSORS	audio_hw.c	148;"	d	file:
+MAX_PREPROCESSORS	hdmi_audio_hw.c	136;"	d	file:
+MEDIA_MIMETYPE_AUDIO_AC3	libTVaudio/audio/DDP_media_source.cpp	/^const char *MEDIA_MIMETYPE_AUDIO_AC3 = "audio\/ac3";$/;"	m	namespace:android	file:
+MEDIA_MIMETYPE_AUDIO_EAC3	libTVaudio/audio/DDP_media_source.cpp	/^const char *MEDIA_MIMETYPE_AUDIO_EAC3 = "audio\/eac3";$/;"	m	namespace:android	file:
+MIN_WRITE_SLEEP_US	audio_hw.c	69;"	d	file:
+MIN_WRITE_SLEEP_US	hdmi_audio_hw.c	64;"	d	file:
+MIN_WRITE_SLEEP_US	hdmi_hw.c	57;"	d	file:
+MIXER_XML_PATH	audio_hw.c	82;"	d	file:
+MM_FULL_POWER_SAMPLING_RATE	audio_hw.c	79;"	d	file:
+MM_FULL_POWER_SAMPLING_RATE	hdmi_audio_hw.c	74;"	d	file:
+MM_FULL_POWER_SAMPLING_RATE	hdmi_hw.c	67;"	d	file:
+MM_LOW_POWER_SAMPLING_RATE	audio_hw.c	77;"	d	file:
+MM_LOW_POWER_SAMPLING_RATE	hdmi_audio_hw.c	72;"	d	file:
+MM_LOW_POWER_SAMPLING_RATE	hdmi_hw.c	65;"	d	file:
+MODE10	libTVaudio/audio/DDP_media_source.h	/^    MODE10,$/;"	e	enum:android::__anon4
+MODE11	libTVaudio/audio/DDP_media_source.h	/^    MODE11 = 0,$/;"	e	enum:android::__anon4
+MODE20	libTVaudio/audio/DDP_media_source.h	/^    MODE20,$/;"	e	enum:android::__anon4
+MODE21	libTVaudio/audio/DDP_media_source.h	/^    MODE21,$/;"	e	enum:android::__anon4
+MODE22	libTVaudio/audio/DDP_media_source.h	/^    MODE22,$/;"	e	enum:android::__anon4
+MODE30	libTVaudio/audio/DDP_media_source.h	/^    MODE30,$/;"	e	enum:android::__anon4
+MODE31	libTVaudio/audio/DDP_media_source.h	/^    MODE31,$/;"	e	enum:android::__anon4
+MODE32	libTVaudio/audio/DDP_media_source.h	/^    MODE32$/;"	e	enum:android::__anon4
+MODE_RSVD	libTVaudio/audio/DDP_media_source.h	/^    MODE_RSVD = 0,$/;"	e	enum:android::__anon4
+MUTE	libTVaudio/audio/aml_audio.h	/^    MUTE,$/;"	e	enum:__anon2
+MediaSourceRead_buffer	libTVaudio/audio/DDP_media_source.cpp	/^int DDP_Media_Source::MediaSourceRead_buffer(unsigned char *buffer, int size) {$/;"	f	class:android::DDP_Media_Source
+PERIOD_COUNT	usb_audio_hw.c	44;"	d	file:
+PERIOD_SIZE	audio_hw.c	/^static unsigned  PERIOD_SIZE  = DEFAULT_PERIOD_SIZE;$/;"	v	file:
+PERIOD_SIZE	hdmi_audio_hw.c	/^static unsigned PERIOD_SIZE = DEFAULT_PERIOD_SIZE;$/;"	v	file:
+PERIOD_SIZE	hdmi_hw.c	50;"	d	file:
+PLAYBACK_PERIOD_COUNT	audio_hw.c	64;"	d	file:
+PLAYBACK_PERIOD_COUNT	hdmi_audio_hw.c	59;"	d	file:
+PLAYBACK_PERIOD_COUNT	hdmi_hw.c	52;"	d	file:
+PLAYBACK_PERIOD_COUNT	libTVaudio/audio/aml_audio.c	40;"	d	file:
+PLAYBACK_PERIOD_SIZE	libTVaudio/audio/aml_audio.c	38;"	d	file:
+PORT_MM	audio_hw.c	57;"	d	file:
+PORT_MM	hdmi_audio_hw.c	54;"	d	file:
+PORT_MM	hdmi_hw.c	48;"	d	file:
+PTR_HEAD_SIZE	libTVaudio/audio/DDP_media_source.h	29;"	d
+RESAMPLER_BUFFER_FRAMES	audio_hw.c	71;"	d	file:
+RESAMPLER_BUFFER_FRAMES	hdmi_audio_hw.c	66;"	d	file:
+RESAMPLER_BUFFER_FRAMES	hdmi_hw.c	59;"	d	file:
+RESAMPLER_BUFFER_SIZE	audio_hw.c	72;"	d	file:
+RESAMPLER_BUFFER_SIZE	hdmi_audio_hw.c	67;"	d	file:
+RESAMPLER_BUFFER_SIZE	hdmi_hw.c	60;"	d	file:
+RESAMPLER_BUFFER_SIZE	usb_audio_hw.c	42;"	d	file:
+RawAudioTrackCallback	libTVaudio/audio/android_out.cpp	/^static void RawAudioTrackCallback(int event, void* user, void *info) {$/;"	f	file:
+RawAudioTrackInit	libTVaudio/audio/android_out.cpp	/^static int RawAudioTrackInit(audio_format_t aformat,int sr)$/;"	f	file:
+RawAudioTrackRelease	libTVaudio/audio/android_out.cpp	/^static int RawAudioTrackRelease(void) {$/;"	f	file:
+SPDIF_IN_AUDIO_TYPE	libTVaudio/audio/aml_audio.c	226;"	d	file:
+SRS_DIALOGCLARITY_ENABLE	libTVaudio/audio/audio_effect_control.c	/^int (*SRS_DIALOGCLARITY_ENABLE)(int value);$/;"	v
+SRS_SURROUND_ENABLE	libTVaudio/audio/audio_effect_control.c	/^int (*SRS_SURROUND_ENABLE)(int value);$/;"	v
+SRS_TRUEBASS_ENABLE	libTVaudio/audio/audio_effect_control.c	/^int (*SRS_TRUEBASS_ENABLE)(int value);$/;"	v
+SRS_getParameter	libTVaudio/audio/audio_effect_control.c	/^int (*SRS_getParameter)(int *truebass_spker_size, float *truebass_gain,$/;"	v
+SRS_init	libTVaudio/audio/audio_effect_control.c	/^int (*SRS_init)(int sample_rate);$/;"	v
+SRS_process	libTVaudio/audio/audio_effect_control.c	/^int (*SRS_process)(short *in, short *out, int framecount);$/;"	v
+SRS_release	libTVaudio/audio/audio_effect_control.c	/^int (*SRS_release)(void);$/;"	v
+SRS_setParameter	libTVaudio/audio/audio_effect_control.c	/^int (*SRS_setParameter)(int truebass_spker_size, float truebass_gain,$/;"	v
+SRS_set_gain	libTVaudio/audio/audio_effect_control.c	/^int (*SRS_set_gain)(float input_gain, float output_gain);$/;"	v
+SYNCWRD	libTVaudio/audio/DDP_media_source.h	20;"	d
+SYST_SERVICES_NAME	libTVaudio/audio/DDP_media_source.cpp	53;"	d	file:
+SYST_SERVICES_NAME	libTVaudio/audio/DDP_media_source.cpp	57;"	d	file:
+SampleFraction	audio_resampler.h	/^    unsigned int SampleFraction;$/;"	m	struct:resample_para
+SampleFraction	libTVaudio/audio/aml_audio.c	/^    unsigned int SampleFraction;$/;"	m	struct:resample_para	file:
+SetDumpDataFlag	libTVaudio/audio/aml_audio.c	/^int SetDumpDataFlag(int tmp_flag) {$/;"	f
+Set_Stop_ReadBuf_Flag	libTVaudio/audio/DDP_media_source.cpp	/^int DDP_Media_Source::Set_Stop_ReadBuf_Flag(int Stop) {$/;"	f	class:android::DDP_Media_Source
+StreamDescriptor	hdmi_audio_hw.c	/^struct StreamDescriptor$/;"	s	file:
+TEMP_BUFFER_SIZE	libTVaudio/audio/aml_audio.c	42;"	d	file:
+TRUEHD	libTVaudio/audio/aml_audio.h	/^    TRUEHD,$/;"	e	enum:__anon2
+USB_AUDIO_PCM	usb_audio_hw.c	662;"	d	file:
+USB_check	libTVaudio/audio/aml_audio.c	/^static void USB_check(struct aml_stream_out *out) {$/;"	f	file:
+VOLCNT	hdmi_audio_hw.c	/^{ VOLMIN = 0, VOLKNEE1 = 1, VOLKNEE2 = 2, VOLMAX = 3, VOLCNT = 4 };$/;"	e	enum:__anon1	file:
+VOLKNEE1	hdmi_audio_hw.c	/^{ VOLMIN = 0, VOLKNEE1 = 1, VOLKNEE2 = 2, VOLMAX = 3, VOLCNT = 4 };$/;"	e	enum:__anon1	file:
+VOLKNEE2	hdmi_audio_hw.c	/^{ VOLMIN = 0, VOLKNEE1 = 1, VOLKNEE2 = 2, VOLMAX = 3, VOLCNT = 4 };$/;"	e	enum:__anon1	file:
+VOLMAX	hdmi_audio_hw.c	/^{ VOLMIN = 0, VOLKNEE1 = 1, VOLKNEE2 = 2, VOLMAX = 3, VOLCNT = 4 };$/;"	e	enum:__anon1	file:
+VOLMIN	hdmi_audio_hw.c	/^{ VOLMIN = 0, VOLKNEE1 = 1, VOLKNEE2 = 2, VOLMAX = 3, VOLCNT = 4 };$/;"	e	enum:__anon1	file:
+VX_NB_SAMPLING_RATE	audio_hw.c	81;"	d	file:
+VX_NB_SAMPLING_RATE	hdmi_audio_hw.c	76;"	d	file:
+VX_NB_SAMPLING_RATE	hdmi_hw.c	69;"	d	file:
+VolumeCurvePoint	hdmi_audio_hw.c	/^struct VolumeCurvePoint$/;"	s	file:
+__AUDIO_RESAMPLER_H__	audio_resampler.h	2;"	d
+__DDP_MEDIA_SOURCE_H__	libTVaudio/audio/DDP_media_source.h	2;"	d
+__TV_AML_AUDIO_H__	libTVaudio/audio/aml_audio.h	2;"	d
+__TV_ANDROID_OUT_H__	libTVaudio/audio/android_out.h	2;"	d
+__TV_AUDIO_AMAUDIO_H__	libTVaudio/audio_amaudio.h	2;"	d
+__TV_AUDIO_EFFECT_CONTROL_H__	libTVaudio/audio/audio_effect_control.h	2;"	d
+__TV_USB_AUDIO_CHECK_H__	libTVaudio/audio/audio_usb_check.h	2;"	d
+active_input	audio_hw.c	/^    struct aml_stream_in *active_input;$/;"	m	struct:aml_audio_device	typeref:struct:aml_audio_device::aml_stream_in	file:
+active_input	hdmi_audio_hw.c	/^  struct aml_stream_in *active_input;$/;"	m	struct:aml_audio_device	typeref:struct:aml_audio_device::aml_stream_in	file:
+active_input	usb_audio_hw.c	/^    struct aml_stream_in *active_input;$/;"	m	struct:aml_audio_device	typeref:struct:aml_audio_device::aml_stream_in	file:
+active_output	audio_hw.c	/^    struct aml_stream_out *active_output;$/;"	m	struct:aml_audio_device	typeref:struct:aml_audio_device::aml_stream_out	file:
+active_output	hdmi_audio_hw.c	/^  struct aml_stream_out *active_output;$/;"	m	struct:aml_audio_device	typeref:struct:aml_audio_device::aml_stream_out	file:
+active_output	hdmi_hw.c	/^	struct aml_stream_out *active_output;$/;"	m	struct:aml_audio_device	typeref:struct:aml_audio_device::aml_stream_out	file:
+active_output	usb_audio_hw.c	/^    struct aml_stream_out *active_output;$/;"	m	struct:aml_audio_device	typeref:struct:aml_audio_device::aml_stream_out	file:
+add_echo_reference	audio_hw.c	/^static void add_echo_reference(struct aml_stream_out *out,$/;"	f	file:
+add_echo_reference	hdmi_audio_hw.c	/^add_echo_reference (struct aml_stream_out *out,$/;"	f	file:
+adev_close	audio_hw.c	/^static int adev_close(hw_device_t *device)$/;"	f	file:
+adev_close	hdmi_audio_hw.c	/^adev_close (hw_device_t * device)$/;"	f	file:
+adev_close	hdmi_hw.c	/^static int adev_close(hw_device_t *device)$/;"	f	file:
+adev_close	usb_audio_hw.c	/^static int adev_close(hw_device_t *device)$/;"	f	file:
+adev_close_input_stream	audio_hw.c	/^static void adev_close_input_stream(struct audio_hw_device *dev,$/;"	f	file:
+adev_close_input_stream	hdmi_audio_hw.c	/^adev_close_input_stream (struct audio_hw_device *dev,$/;"	f	file:
+adev_close_input_stream	hdmi_hw.c	/^static void adev_close_input_stream(struct audio_hw_device *dev,$/;"	f	file:
+adev_close_input_stream	usb_audio_hw.c	/^static void adev_close_input_stream(struct audio_hw_device *dev,$/;"	f	file:
+adev_close_output_stream	audio_hw.c	/^static void adev_close_output_stream(struct audio_hw_device *dev,$/;"	f	file:
+adev_close_output_stream	hdmi_audio_hw.c	/^adev_close_output_stream (struct audio_hw_device *dev,$/;"	f	file:
+adev_close_output_stream	hdmi_hw.c	/^static void adev_close_output_stream(struct audio_hw_device *dev,$/;"	f	file:
+adev_close_output_stream	usb_audio_hw.c	/^static void adev_close_output_stream(struct audio_hw_device *dev,$/;"	f	file:
+adev_dump	audio_hw.c	/^static int adev_dump(const audio_hw_device_t *device __unused, int fd __unused)$/;"	f	file:
+adev_dump	hdmi_audio_hw.c	/^adev_dump (const audio_hw_device_t * device, int fd)$/;"	f	file:
+adev_dump	hdmi_hw.c	/^static int adev_dump(const audio_hw_device_t *device, int fd)$/;"	f	file:
+adev_dump	usb_audio_hw.c	/^static int adev_dump(const audio_hw_device_t *device, int fd)$/;"	f	file:
+adev_get_input_buffer_size	audio_hw.c	/^static size_t adev_get_input_buffer_size(const struct audio_hw_device *dev,$/;"	f	file:
+adev_get_input_buffer_size	hdmi_audio_hw.c	/^adev_get_input_buffer_size (const struct audio_hw_device *dev,$/;"	f	file:
+adev_get_input_buffer_size	hdmi_hw.c	/^static size_t adev_get_input_buffer_size(const struct audio_hw_device *dev,$/;"	f	file:
+adev_get_input_buffer_size	usb_audio_hw.c	/^static size_t adev_get_input_buffer_size(const struct audio_hw_device *dev,$/;"	f	file:
+adev_get_master_mute	audio_hw.c	/^static int adev_get_master_mute(struct audio_hw_device *dev __unused, bool *muted __unused)$/;"	f	file:
+adev_get_master_mute	hdmi_audio_hw.c	/^adev_get_master_mute (struct audio_hw_device *dev, bool * muted)$/;"	f	file:
+adev_get_master_mute	hdmi_hw.c	/^static int adev_get_master_mute(struct audio_hw_device *dev, bool *muted)$/;"	f	file:
+adev_get_master_mute	usb_audio_hw.c	/^static int adev_get_master_mute(struct audio_hw_device *dev, bool *muted)$/;"	f	file:
+adev_get_master_volume	audio_hw.c	/^static int adev_get_master_volume(struct audio_hw_device *dev __unused,$/;"	f	file:
+adev_get_master_volume	hdmi_audio_hw.c	/^adev_get_master_volume (struct audio_hw_device *dev, float *volume)$/;"	f	file:
+adev_get_master_volume	hdmi_hw.c	/^static int adev_get_master_volume(struct audio_hw_device *dev,$/;"	f	file:
+adev_get_master_volume	usb_audio_hw.c	/^static int adev_get_master_volume(struct audio_hw_device *dev,$/;"	f	file:
+adev_get_mic_mute	audio_hw.c	/^static int adev_get_mic_mute(const struct audio_hw_device *dev, bool *state)$/;"	f	file:
+adev_get_mic_mute	hdmi_audio_hw.c	/^adev_get_mic_mute (const struct audio_hw_device *dev, bool * state)$/;"	f	file:
+adev_get_mic_mute	hdmi_hw.c	/^static int adev_get_mic_mute(const struct audio_hw_device *dev, bool *state)$/;"	f	file:
+adev_get_mic_mute	usb_audio_hw.c	/^static int adev_get_mic_mute(const struct audio_hw_device *dev, bool *state)$/;"	f	file:
+adev_get_parameters	audio_hw.c	/^static char * adev_get_parameters(const struct audio_hw_device *dev __unused,$/;"	f	file:
+adev_get_parameters	hdmi_audio_hw.c	/^adev_get_parameters (const struct audio_hw_device *dev, const char *keys)$/;"	f	file:
+adev_get_parameters	hdmi_hw.c	/^static char * adev_get_parameters(const struct audio_hw_device *dev,$/;"	f	file:
+adev_get_parameters	usb_audio_hw.c	/^static char * adev_get_parameters(const struct audio_hw_device *dev,$/;"	f	file:
+adev_init_check	audio_hw.c	/^static int adev_init_check(const struct audio_hw_device *dev __unused)$/;"	f	file:
+adev_init_check	hdmi_audio_hw.c	/^adev_init_check (const struct audio_hw_device *dev)$/;"	f	file:
+adev_init_check	hdmi_hw.c	/^static int adev_init_check(const struct audio_hw_device *dev)$/;"	f	file:
+adev_init_check	usb_audio_hw.c	/^static int adev_init_check(const struct audio_hw_device *dev)$/;"	f	file:
+adev_open	audio_hw.c	/^static int adev_open(const hw_module_t* module, const char* name,$/;"	f	file:
+adev_open	hdmi_audio_hw.c	/^adev_open (const hw_module_t * module, const char *name,$/;"	f	file:
+adev_open	hdmi_hw.c	/^static int adev_open(const hw_module_t* module, const char* name,$/;"	f	file:
+adev_open	usb_audio_hw.c	/^static int adev_open(const hw_module_t* module, const char* name,$/;"	f	file:
+adev_open_input_stream	audio_hw.c	/^static int adev_open_input_stream(struct audio_hw_device *dev,$/;"	f	file:
+adev_open_input_stream	hdmi_audio_hw.c	/^adev_open_input_stream (struct audio_hw_device *dev,$/;"	f	file:
+adev_open_input_stream	hdmi_hw.c	/^static int adev_open_input_stream(struct audio_hw_device *dev,$/;"	f	file:
+adev_open_input_stream	usb_audio_hw.c	/^static int adev_open_input_stream(struct audio_hw_device *dev,$/;"	f	file:
+adev_open_output_stream	audio_hw.c	/^static int adev_open_output_stream(struct audio_hw_device *dev,$/;"	f	file:
+adev_open_output_stream	hdmi_audio_hw.c	/^adev_open_output_stream (struct audio_hw_device *dev,$/;"	f	file:
+adev_open_output_stream	hdmi_hw.c	/^static int adev_open_output_stream(struct audio_hw_device *dev,$/;"	f	file:
+adev_open_output_stream	usb_audio_hw.c	/^static int adev_open_output_stream(struct audio_hw_device *dev,$/;"	f	file:
+adev_set_master_mute	audio_hw.c	/^static int adev_set_master_mute(struct audio_hw_device *dev __unused, bool muted __unused)$/;"	f	file:
+adev_set_master_mute	hdmi_audio_hw.c	/^adev_set_master_mute (struct audio_hw_device *dev, bool muted)$/;"	f	file:
+adev_set_master_mute	hdmi_hw.c	/^static int adev_set_master_mute(struct audio_hw_device *dev, bool muted)$/;"	f	file:
+adev_set_master_mute	usb_audio_hw.c	/^static int adev_set_master_mute(struct audio_hw_device *dev, bool muted)$/;"	f	file:
+adev_set_master_volume	audio_hw.c	/^static int adev_set_master_volume(struct audio_hw_device *dev __unused, float volume __unused)$/;"	f	file:
+adev_set_master_volume	hdmi_audio_hw.c	/^adev_set_master_volume (struct audio_hw_device *dev, float volume)$/;"	f	file:
+adev_set_master_volume	hdmi_hw.c	/^static int adev_set_master_volume(struct audio_hw_device *dev, float volume)$/;"	f	file:
+adev_set_master_volume	usb_audio_hw.c	/^static int adev_set_master_volume(struct audio_hw_device *dev, float volume)$/;"	f	file:
+adev_set_mic_mute	audio_hw.c	/^static int adev_set_mic_mute(struct audio_hw_device *dev, bool state)$/;"	f	file:
+adev_set_mic_mute	hdmi_audio_hw.c	/^adev_set_mic_mute (struct audio_hw_device *dev, bool state)$/;"	f	file:
+adev_set_mic_mute	hdmi_hw.c	/^static int adev_set_mic_mute(struct audio_hw_device *dev, bool state)$/;"	f	file:
+adev_set_mic_mute	usb_audio_hw.c	/^static int adev_set_mic_mute(struct audio_hw_device *dev, bool state)$/;"	f	file:
+adev_set_mode	audio_hw.c	/^static int adev_set_mode(struct audio_hw_device *dev, audio_mode_t mode)$/;"	f	file:
+adev_set_mode	hdmi_audio_hw.c	/^adev_set_mode (struct audio_hw_device *dev, audio_mode_t mode)$/;"	f	file:
+adev_set_mode	hdmi_hw.c	/^static int adev_set_mode(struct audio_hw_device *dev, audio_mode_t mode)$/;"	f	file:
+adev_set_mode	usb_audio_hw.c	/^static int adev_set_mode(struct audio_hw_device *dev, audio_mode_t mode)$/;"	f	file:
+adev_set_parameters	audio_hw.c	/^static int adev_set_parameters(struct audio_hw_device *dev, const char *kvpairs)$/;"	f	file:
+adev_set_parameters	hdmi_audio_hw.c	/^adev_set_parameters (struct audio_hw_device *dev, const char *kvpairs)$/;"	f	file:
+adev_set_parameters	hdmi_hw.c	/^static int adev_set_parameters(struct audio_hw_device *dev, const char *kvpairs)$/;"	f	file:
+adev_set_parameters	usb_audio_hw.c	/^static int adev_set_parameters(struct audio_hw_device *dev, const char *kvpairs)$/;"	f	file:
+adev_set_voice_volume	audio_hw.c	/^static int adev_set_voice_volume(struct audio_hw_device *dev __unused, float volume __unused)$/;"	f	file:
+adev_set_voice_volume	hdmi_audio_hw.c	/^adev_set_voice_volume (struct audio_hw_device *dev, float volume)$/;"	f	file:
+adev_set_voice_volume	hdmi_hw.c	/^static int adev_set_voice_volume(struct audio_hw_device *dev, float volume)$/;"	f	file:
+adev_set_voice_volume	usb_audio_hw.c	/^static int adev_set_voice_volume(struct audio_hw_device *dev, float volume)$/;"	f	file:
+alsa_in_close	libTVaudio/audio/aml_audio.c	/^static int alsa_in_close(struct aml_stream_in *in) {$/;"	f	file:
+alsa_in_open	libTVaudio/audio/aml_audio.c	/^static int alsa_in_open(struct aml_stream_in *in) {$/;"	f	file:
+alsa_in_read	libTVaudio/audio/aml_audio.c	/^static int alsa_in_read(struct aml_stream_in *in, void* buffer, size_t bytes) {$/;"	f	file:
+alsa_out_close	libTVaudio/audio/aml_audio.c	/^static int alsa_out_close(struct aml_stream_out *out) {$/;"	f	file:
+alsa_out_open	libTVaudio/audio/aml_audio.c	/^static int alsa_out_open(struct aml_stream_out *out) {$/;"	f	file:
+alsa_out_write	libTVaudio/audio/aml_audio.c	/^static int alsa_out_write(struct aml_stream_out *out, void* buffer,$/;"	f	file:
+amAudioClose	libTVaudio/audio/audio_amaudio.cpp	/^int amAudioClose(void) {$/;"	f
+amAudioGetDumpDataFlag	libTVaudio/audio/audio_amaudio.cpp	/^int amAudioGetDumpDataFlag() {$/;"	f
+amAudioGetEQEnable	libTVaudio/audio/audio_amaudio.cpp	/^int amAudioGetEQEnable() {$/;"	f
+amAudioGetEQGain	libTVaudio/audio/audio_amaudio.cpp	/^int amAudioGetEQGain(int gain_val_buf[], int buf_item_cnt __unused) {$/;"	f
+amAudioOpen	libTVaudio/audio/audio_amaudio.cpp	/^int amAudioOpen(unsigned int sr, int input_device, int output_device) {$/;"	f
+amAudioSetDumpDataFlag	libTVaudio/audio/audio_amaudio.cpp	/^int amAudioSetDumpDataFlag(int tmp_flag) {$/;"	f
+amAudioSetEQEnable	libTVaudio/audio/audio_amaudio.cpp	/^int amAudioSetEQEnable(int en_val) {$/;"	f
+amAudioSetEQGain	libTVaudio/audio/audio_amaudio.cpp	/^int amAudioSetEQGain(int gain_val_buf[], int buf_item_cnt __unused) {$/;"	f
+amAudioSetInputSr	libTVaudio/audio/audio_amaudio.cpp	/^int amAudioSetInputSr(unsigned int sr, int input_device, int output_device) {$/;"	f
+amAudioSetLeftGain	libTVaudio/audio/audio_amaudio.cpp	/^int amAudioSetLeftGain(int gain) {$/;"	f
+amAudioSetMusicGain	libTVaudio/audio/audio_amaudio.cpp	/^int amAudioSetMusicGain(int gain) {$/;"	f
+amAudioSetOutputMode	libTVaudio/audio/audio_amaudio.cpp	/^int amAudioSetOutputMode(int mode) {$/;"	f
+amAudioSetRightGain	libTVaudio/audio/audio_amaudio.cpp	/^int amAudioSetRightGain(int gain) {$/;"	f
+amAudioSetSRSDefinitionGain	libTVaudio/audio/audio_amaudio.cpp	/^int amAudioSetSRSDefinitionGain(int gain_val) {$/;"	f
+amAudioSetSRSDialogClarityGain	libTVaudio/audio/audio_amaudio.cpp	/^int amAudioSetSRSDialogClarityGain(int gain_val) {$/;"	f
+amAudioSetSRSDialogClaritySwitch	libTVaudio/audio/audio_amaudio.cpp	/^int amAudioSetSRSDialogClaritySwitch(int switch_val) {$/;"	f
+amAudioSetSRSGain	libTVaudio/audio/audio_amaudio.cpp	/^int amAudioSetSRSGain(int input_gain, int output_gain) {$/;"	f
+amAudioSetSRSParameter	libTVaudio/audio/audio_amaudio.cpp	/^static int amAudioSetSRSParameter(int set_type, int gain_val) {$/;"	f	file:
+amAudioSetSRSSurroundGain	libTVaudio/audio/audio_amaudio.cpp	/^int amAudioSetSRSSurroundGain(int gain_val) {$/;"	f
+amAudioSetSRSSurroundSwitch	libTVaudio/audio/audio_amaudio.cpp	/^int amAudioSetSRSSurroundSwitch(int switch_val) {$/;"	f
+amAudioSetSRSTrubassGain	libTVaudio/audio/audio_amaudio.cpp	/^int amAudioSetSRSTrubassGain(int gain_val) {$/;"	f
+amAudioSetSRSTrubassSpeakerSize	libTVaudio/audio/audio_amaudio.cpp	/^int amAudioSetSRSTrubassSpeakerSize(int tmp_val) {$/;"	f
+amAudioSetSRSTrubassSwitch	libTVaudio/audio/audio_amaudio.cpp	/^int amAudioSetSRSTrubassSwitch(int switch_val) {$/;"	f
+amAudio_OutHandle	libTVaudio/audio/aml_audio.c	/^    int amAudio_OutHandle;$/;"	m	struct:aml_stream_out	file:
+amDeathNotifier	libTVaudio/audio/DDP_media_source.cpp	/^static sp<DeathNotifier> amDeathNotifier;$/;"	m	namespace:android	file:
+amLock	libTVaudio/audio/DDP_media_source.cpp	/^static  Mutex            amLock;$/;"	m	namespace:android	file:
+amSystemWriteService	libTVaudio/audio/DDP_media_source.cpp	/^static sp<ISystemControlService> amSystemWriteService;$/;"	m	namespace:android	file:
+amSystemWriteSetProperty	libTVaudio/audio/DDP_media_source.cpp	/^void amSystemWriteSetProperty(const char* key, const char* value)$/;"	f	namespace:android
+amaudio2_out_handle	libTVaudio/audio/aml_audio.c	/^static int amaudio2_out_handle = -1;$/;"	v	file:
+amaudio_dev_op_mutex	libTVaudio/audio/aml_audio.c	/^static pthread_mutex_t amaudio_dev_op_mutex = PTHREAD_MUTEX_INITIALIZER;$/;"	v	file:
+amaudio_out_close	libTVaudio/audio/aml_audio.c	/^static int amaudio_out_close(struct aml_stream_out *out) {$/;"	f	file:
+amaudio_out_open	libTVaudio/audio/aml_audio.c	/^static int amaudio_out_open(struct aml_stream_out *out) {$/;"	f	file:
+amaudio_out_write	libTVaudio/audio/aml_audio.c	/^static int amaudio_out_write(struct aml_stream_out *out, void* buffer,$/;"	f	file:
+amgLock	libTVaudio/audio/DDP_media_source.cpp	/^static  Mutex            amgLock;$/;"	m	namespace:android	file:
+aml_Audio_ThreadExecFlag	libTVaudio/audio/aml_audio.c	/^    int aml_Audio_ThreadExecFlag;$/;"	m	struct:aml_dev	file:
+aml_Audio_ThreadID	libTVaudio/audio/aml_audio.c	/^    pthread_t aml_Audio_ThreadID;$/;"	m	struct:aml_dev	file:
+aml_Audio_ThreadTurnOnFlag	libTVaudio/audio/aml_audio.c	/^    int aml_Audio_ThreadTurnOnFlag;$/;"	m	struct:aml_dev	file:
+aml_audio_close	libTVaudio/audio/aml_audio.c	/^int aml_audio_close(void) {$/;"	f
+aml_audio_device	audio_hw.c	/^struct aml_audio_device {$/;"	s	file:
+aml_audio_device	hdmi_audio_hw.c	/^struct aml_audio_device$/;"	s	file:
+aml_audio_device	hdmi_hw.c	/^struct aml_audio_device {$/;"	s	file:
+aml_audio_device	usb_audio_hw.c	/^struct aml_audio_device {$/;"	s	file:
+aml_audio_open	libTVaudio/audio/aml_audio.c	/^int aml_audio_open(unsigned int sr, int input_device, int output_device) {$/;"	f
+aml_audio_threadloop	libTVaudio/audio/aml_audio.c	/^static void* aml_audio_threadloop(void *data __unused) {$/;"	f	file:
+aml_dev	libTVaudio/audio/aml_audio.c	/^struct aml_dev {$/;"	s	file:
+aml_device_close	libTVaudio/audio/aml_audio.c	/^static int aml_device_close(struct aml_dev *device) {$/;"	f	file:
+aml_device_init	libTVaudio/audio/aml_audio.c	/^static int aml_device_init(struct aml_dev *device) {$/;"	f	file:
+aml_stream_in	audio_hw.c	/^struct aml_stream_in {$/;"	s	file:
+aml_stream_in	hdmi_audio_hw.c	/^struct aml_stream_in$/;"	s	file:
+aml_stream_in	libTVaudio/audio/aml_audio.c	/^struct aml_stream_in {$/;"	s	file:
+aml_stream_in	usb_audio_hw.c	/^struct aml_stream_in {$/;"	s	file:
+aml_stream_out	audio_hw.c	/^struct aml_stream_out {$/;"	s	file:
+aml_stream_out	hdmi_audio_hw.c	/^struct aml_stream_out$/;"	s	file:
+aml_stream_out	hdmi_hw.c	/^struct aml_stream_out {$/;"	s	file:
+aml_stream_out	libTVaudio/audio/aml_audio.c	/^struct aml_stream_out {$/;"	s	file:
+aml_stream_out	usb_audio_hw.c	/^struct aml_stream_out {$/;"	s	file:
+amsysfs_get_sysfs_int	libTVaudio/audio/android_out.cpp	/^int amsysfs_get_sysfs_int(const char *path) {$/;"	f
+amsysfs_set_sysfs_int	libTVaudio/audio/android_out.cpp	/^static int amsysfs_set_sysfs_int(const char *path, int val) {$/;"	f	file:
+android	DLGAudioPolicyManager.cpp	/^namespace android {$/;"	n	file:
+android	DLGAudioPolicyManager.h	/^namespace android {$/;"	n
+android	libTVaudio/audio/DDP_media_source.cpp	/^namespace android {$/;"	n	file:
+android	libTVaudio/audio/DDP_media_source.h	/^namespace android {$/;"	n
+android	libTVaudio/audio/audio_usb_check.cpp	/^namespace android {$/;"	n	file:
+android_check_ThreadID	libTVaudio/audio/aml_audio.c	/^    pthread_t android_check_ThreadID;$/;"	m	struct:aml_dev	file:
+android_check_threadloop	libTVaudio/audio/audio_usb_check.cpp	/^void* android_check_threadloop(void *data __unused) {$/;"	f
+android_out_buffer	libTVaudio/audio/aml_audio.c	/^struct circle_buffer android_out_buffer = {$/;"	v	typeref:struct:circle_buffer
+ap_dump	audio_policy.c	/^static int ap_dump(const struct audio_policy *pol, int fd)$/;"	f	file:
+ap_get_device_connection_state	audio_policy.c	/^static audio_policy_dev_state_t ap_get_device_connection_state($/;"	f	file:
+ap_get_devices_for_stream	audio_policy.c	/^static uint32_t ap_get_devices_for_stream(const struct audio_policy *pol,$/;"	f	file:
+ap_get_force_use	audio_policy.c	/^static audio_policy_forced_cfg_t ap_get_force_use($/;"	f	file:
+ap_get_input	audio_policy.c	/^static audio_io_handle_t ap_get_input(struct audio_policy *pol, int inputSource,$/;"	f	file:
+ap_get_output	audio_policy.c	/^static audio_io_handle_t ap_get_output(struct audio_policy *pol,$/;"	f	file:
+ap_get_output_for_effect	audio_policy.c	/^static audio_io_handle_t ap_get_output_for_effect(struct audio_policy *pol,$/;"	f	file:
+ap_get_strategy_for_stream	audio_policy.c	/^static uint32_t ap_get_strategy_for_stream(const struct audio_policy *pol,$/;"	f	file:
+ap_get_stream_volume_index	audio_policy.c	/^static int ap_get_stream_volume_index(const struct audio_policy *pol,$/;"	f	file:
+ap_init_check	audio_policy.c	/^static int ap_init_check(const struct audio_policy *pol)$/;"	f	file:
+ap_init_stream_volume	audio_policy.c	/^static void ap_init_stream_volume(struct audio_policy *pol,$/;"	f	file:
+ap_is_stream_active	audio_policy.c	/^static bool ap_is_stream_active(const struct audio_policy *pol, int stream,$/;"	f	file:
+ap_register_effect	audio_policy.c	/^static int ap_register_effect(struct audio_policy *pol,$/;"	f	file:
+ap_release_input	audio_policy.c	/^static void ap_release_input(struct audio_policy *pol, audio_io_handle_t input)$/;"	f	file:
+ap_release_output	audio_policy.c	/^static void ap_release_output(struct audio_policy *pol,$/;"	f	file:
+ap_set_can_mute_enforced_audible	audio_policy.c	/^static void ap_set_can_mute_enforced_audible(struct audio_policy *pol,$/;"	f	file:
+ap_set_device_connection_state	audio_policy.c	/^static int ap_set_device_connection_state(struct audio_policy *pol,$/;"	f	file:
+ap_set_effect_enabled	audio_policy.c	/^static int ap_set_effect_enabled(struct audio_policy *pol, int id, bool enabled)$/;"	f	file:
+ap_set_force_use	audio_policy.c	/^static void ap_set_force_use(struct audio_policy *pol,$/;"	f	file:
+ap_set_phone_state	audio_policy.c	/^static void ap_set_phone_state(struct audio_policy *pol, int state)$/;"	f	file:
+ap_set_ringer_mode	audio_policy.c	/^static void ap_set_ringer_mode(struct audio_policy *pol, uint32_t mode,$/;"	f	file:
+ap_set_stream_volume_index	audio_policy.c	/^static int ap_set_stream_volume_index(struct audio_policy *pol,$/;"	f	file:
+ap_start_input	audio_policy.c	/^static int ap_start_input(struct audio_policy *pol, audio_io_handle_t input)$/;"	f	file:
+ap_start_output	audio_policy.c	/^static int ap_start_output(struct audio_policy *pol, audio_io_handle_t output,$/;"	f	file:
+ap_stop_input	audio_policy.c	/^static int ap_stop_input(struct audio_policy *pol, audio_io_handle_t input)$/;"	f	file:
+ap_stop_output	audio_policy.c	/^static int ap_stop_output(struct audio_policy *pol, audio_io_handle_t output,$/;"	f	file:
+ap_unregister_effect	audio_policy.c	/^static int ap_unregister_effect(struct audio_policy *pol, int id)$/;"	f	file:
+apply_stream_volume	libTVaudio/audio/aml_audio.c	/^static void apply_stream_volume(float vol,char *buf,int size) {$/;"	f	file:
+aps_ops	audio_policy.c	/^    struct audio_policy_service_ops *aps_ops;$/;"	m	struct:default_audio_policy	typeref:struct:default_audio_policy::audio_policy_service_ops	file:
+ar	audio_hw.c	/^    struct audio_route *ar;$/;"	m	struct:aml_audio_device	typeref:struct:aml_audio_device::audio_route	file:
+arm_omx_codec	libTVaudio/audio/DDP_media_source.cpp	/^Aml_OMX_Codec *arm_omx_codec = NULL;$/;"	m	namespace:android	file:
+audio_effect_process	audio_hw.c	/^static int audio_effect_process(struct audio_stream_out *stream,$/;"	f	file:
+audio_effect_process	libTVaudio/audio/aml_audio.c	/^static int audio_effect_process(short* buffer, int frame_size) {$/;"	f	file:
+audio_effect_release	libTVaudio/audio/aml_audio.c	/^static int audio_effect_release() {$/;"	f	file:
+audioeffect_tmp_buffer	audio_hw.c	/^    void *audioeffect_tmp_buffer;$/;"	m	struct:aml_stream_out	file:
+audioeffect_tmp_buffer	libTVaudio/audio/aml_audio.c	/^    void *audioeffect_tmp_buffer;$/;"	m	struct:aml_stream_out	file:
+audioin_type	libTVaudio/audio/aml_audio.c	/^static int audioin_type = 0;$/;"	v	file:
+binderDied	libTVaudio/audio/DDP_media_source.cpp	/^        void binderDied(const wp<IBinder>& who) {$/;"	f	class:android::DeathNotifier
+bitptr	libTVaudio/audio/DDP_media_source.h	/^    DDPshort        bitptr;$/;"	m	struct:android::__anon3
+bluetooth_nrec	hdmi_audio_hw.c	/^  bool bluetooth_nrec;$/;"	m	struct:aml_audio_device	file:
+buf	libTVaudio/audio/DDP_media_source.h	/^    DDPshort       *buf;$/;"	m	struct:android::__anon3
+buf_decode_offset	libTVaudio/audio/DDP_media_source.h	/^    int64_t buf_decode_offset;$/;"	m	class:android::Aml_OMX_Codec
+buf_decode_offset_pre	libTVaudio/audio/DDP_media_source.h	/^    int64_t buf_decode_offset_pre;$/;"	m	class:android::Aml_OMX_Codec
+buf_provider	audio_hw.c	/^    struct resampler_buffer_provider buf_provider;$/;"	m	struct:aml_stream_in	typeref:struct:aml_stream_in::resampler_buffer_provider	file:
+buf_provider	hdmi_audio_hw.c	/^  struct resampler_buffer_provider buf_provider;$/;"	m	struct:aml_stream_in	typeref:struct:aml_stream_in::resampler_buffer_provider	file:
+buf_provider	usb_audio_hw.c	/^    struct resampler_buffer_provider buf_provider;$/;"	m	struct:aml_stream_in	typeref:struct:aml_stream_in::resampler_buffer_provider	file:
+buffer	audio_hw.c	/^    char *buffer;$/;"	m	struct:aml_stream_out	file:
+buffer	audio_hw.c	/^    int16_t *buffer;$/;"	m	struct:aml_stream_in	file:
+buffer	hdmi_audio_hw.c	/^  char *buffer;$/;"	m	struct:aml_stream_out	file:
+buffer	hdmi_audio_hw.c	/^  int16_t *buffer;$/;"	m	struct:aml_stream_in	file:
+buffer	hdmi_hw.c	/^    char *buffer;$/;"	m	struct:aml_stream_out	file:
+buffer	usb_audio_hw.c	/^    int16_t *buffer;$/;"	m	struct:aml_stream_in	file:
+buffer	usb_audio_hw.c	/^    void *buffer;$/;"	m	struct:aml_stream_out	file:
+buffer_frames	audio_hw.c	/^    size_t buffer_frames;$/;"	m	struct:aml_stream_out	file:
+buffer_read	libTVaudio/audio/aml_audio.c	/^int buffer_read(struct circle_buffer *tmp, char* buffer, size_t bytes) {$/;"	f
+buffer_status	libTVaudio/audio/aml_audio.c	/^struct buffer_status {$/;"	s	file:
+buffer_write	libTVaudio/audio/aml_audio.c	/^int buffer_write(struct circle_buffer *tmp, char* buffer, size_t bytes) {$/;"	f
+cache_buffer_bytes	audio_hw.c	/^static char cache_buffer_bytes[64];$/;"	v	file:
+cache_buffer_bytes	hdmi_audio_hw.c	/^static char cache_buffer_bytes[64];$/;"	v	file:
+cache_buffer_bytes	hdmi_hw.c	/^static char cache_buffer_bytes[64];$/;"	v	file:
+cached_len	audio_hw.c	/^static uint cached_len=0;$/;"	v	file:
+cached_len	hdmi_audio_hw.c	/^static uint cached_len = 0;$/;"	v	file:
+cached_len	hdmi_hw.c	/^static uint cached_len=0;$/;"	v	file:
+card	audio_hw.c	/^    unsigned int card;$/;"	m	struct:aml_audio_device	file:
+card	libTVaudio/audio/aml_audio.c	/^    int card;$/;"	m	struct:aml_stream_in	file:
+card	libTVaudio/audio/aml_audio.c	/^    int card;$/;"	m	struct:aml_stream_out	file:
+card	usb_audio_hw.c	/^    int card;$/;"	m	struct:aml_audio_device	file:
+card_device	usb_audio_hw.c	/^    int card_device;$/;"	m	struct:aml_audio_device	file:
+chanary	libTVaudio/audio/DDP_media_source.h	/^const DDPshort chanary[MAXCHANCFGS] = { 2, 1, 2, 3, 3, 4, 4, 5 };$/;"	m	namespace:android
+channels	audio_resampler.h	/^    unsigned int channels;$/;"	m	struct:resample_para
+check_audio_type	libTVaudio/audio/aml_audio.c	/^static int check_audio_type(struct aml_stream_out *out) {$/;"	f	file:
+check_input_parameters	audio_hw.c	/^static int check_input_parameters(uint32_t sample_rate, audio_format_t format, int channel_count)$/;"	f	file:
+check_input_parameters	hdmi_audio_hw.c	/^check_input_parameters (uint32_t sample_rate, int format, int channel_count)$/;"	f	file:
+check_input_stream	hdmi_audio_hw.c	/^check_input_stream (struct aml_stream_in *in)$/;"	f	file:
+check_input_stream_sr	libTVaudio/audio/aml_audio.c	/^int check_input_stream_sr(unsigned int sr) {$/;"	f
+check_output_stream	hdmi_audio_hw.c	/^check_output_stream (struct aml_stream_out *out)$/;"	f	file:
+check_output_stream	hdmi_hw.c	/^static int check_output_stream(struct aml_stream_out *out)$/;"	f	file:
+circle_buffer	libTVaudio/audio/aml_audio.h	/^struct circle_buffer {$/;"	s
+clip	audio_resampler.c	/^inline static short clip(int x) {$/;"	f	file:
+clip	libTVaudio/audio/aml_audio.c	/^inline static short clip(int x) {$/;"	f	file:
+clrDevice	libTVaudio/audio/aml_audio.c	/^static int clrDevice(struct aml_dev *device) {$/;"	f	file:
+computeVolume	DLGAudioPolicyManager.cpp	/^float DLGAudioPolicyManager::computeVolume(audio_stream_type_t stream,$/;"	f	class:android::DLGAudioPolicyManager
+computeVolume	hdmi_audio_hw.c	/^computeVolume (struct audio_stream_in *stream)$/;"	f
+config	audio_hw.c	/^    struct pcm_config config;$/;"	m	struct:aml_stream_in	typeref:struct:aml_stream_in::pcm_config	file:
+config	audio_hw.c	/^    struct pcm_config config;$/;"	m	struct:aml_stream_out	typeref:struct:aml_stream_out::pcm_config	file:
+config	hdmi_audio_hw.c	/^  struct pcm_config config;$/;"	m	struct:aml_stream_in	typeref:struct:aml_stream_in::pcm_config	file:
+config	hdmi_audio_hw.c	/^  struct pcm_config config;$/;"	m	struct:aml_stream_out	typeref:struct:aml_stream_out::pcm_config	file:
+config	hdmi_hw.c	/^    struct pcm_config config;$/;"	m	struct:aml_stream_out	typeref:struct:aml_stream_out::pcm_config	file:
+config	libTVaudio/audio/aml_audio.c	/^    struct pcm_config config;$/;"	m	struct:aml_stream_in	typeref:struct:aml_stream_in::pcm_config	file:
+config	libTVaudio/audio/aml_audio.c	/^    struct pcm_config config;$/;"	m	struct:aml_stream_out	typeref:struct:aml_stream_out::pcm_config	file:
+creat_pthread_for_android_check	libTVaudio/audio/audio_usb_check.cpp	/^extern "C" int creat_pthread_for_android_check$/;"	f
+createAudioPolicyManager	DLGAudioPolicyManager.cpp	/^extern "C" AudioPolicyInterface* createAudioPolicyManager($/;"	f	namespace:android
+create_default_ap	audio_policy.c	/^static int create_default_ap(const struct audio_policy_device *device,$/;"	f	file:
+data	libTVaudio/audio/DDP_media_source.h	/^    DDPshort        data;$/;"	m	struct:android::__anon3
+ddbs_getbsid	libTVaudio/audio/DDP_media_source.cpp	/^static DDPerr ddbs_getbsid(DDP_BSTRM *p_inbstrm,    DDPshort *p_bsid)$/;"	f	namespace:android
+ddbs_init	libTVaudio/audio/DDP_media_source.cpp	/^static DDPerr ddbs_init(DDPshort * buf, DDPshort bitptr, DDP_BSTRM *p_bstrm)$/;"	f	namespace:android
+ddbs_skip	libTVaudio/audio/DDP_media_source.cpp	/^static DDPerr ddbs_skip(DDP_BSTRM   *p_bstrm, DDPshort    numbits)$/;"	f	namespace:android
+ddbs_unprj	libTVaudio/audio/DDP_media_source.cpp	/^static DDPerr ddbs_unprj(DDP_BSTRM *p_bstrm, DDPshort *p_data,  DDPshort numbits)$/;"	f	namespace:android
+decode_ThreadExitFlag	libTVaudio/audio/DDP_media_source.cpp	/^static int decode_ThreadExitFlag = 0; \/\/0:exit from thread; 1:thread looping$/;"	m	namespace:android	file:
+decode_ThreadID	libTVaudio/audio/DDP_media_source.cpp	/^static pthread_t decode_ThreadID = 0;$/;"	m	namespace:android	file:
+decode_ThreadStopFlag	libTVaudio/audio/DDP_media_source.cpp	/^static int decode_ThreadStopFlag = 1; \/\/0:start; 1: stop$/;"	m	namespace:android	file:
+decode_dev_op_mutex	libTVaudio/audio/DDP_media_source.cpp	/^static pthread_mutex_t decode_dev_op_mutex = PTHREAD_MUTEX_INITIALIZER;$/;"	m	namespace:android	file:
+decode_threadloop	libTVaudio/audio/DDP_media_source.cpp	/^void *decode_threadloop(void *args) {$/;"	f	namespace:android
+default_ap_dev_close	audio_policy.c	/^static int default_ap_dev_close(hw_device_t* device)$/;"	f	file:
+default_ap_dev_open	audio_policy.c	/^static int default_ap_dev_open(const hw_module_t* module, const char* name,$/;"	f	file:
+default_ap_device	audio_policy.c	/^struct default_ap_device {$/;"	s	file:
+default_ap_module	audio_policy.c	/^struct default_ap_module {$/;"	s	file:
+default_ap_module_methods	audio_policy.c	/^static struct hw_module_methods_t default_ap_module_methods = {$/;"	v	typeref:struct:hw_module_methods_t	file:
+default_audio_policy	audio_policy.c	/^struct default_audio_policy {$/;"	s	file:
+destroyAudioPolicyManager	DLGAudioPolicyManager.cpp	/^extern "C" void destroyAudioPolicyManager(AudioPolicyInterface *interface)$/;"	f	namespace:android
+destroy_default_ap	audio_policy.c	/^static int destroy_default_ap(const struct audio_policy_device *ap_dev,$/;"	f	file:
+dev	audio_hw.c	/^    struct aml_audio_device *dev;$/;"	m	struct:aml_stream_in	typeref:struct:aml_stream_in::aml_audio_device	file:
+dev	audio_hw.c	/^    struct aml_audio_device *dev;$/;"	m	struct:aml_stream_out	typeref:struct:aml_stream_out::aml_audio_device	file:
+dev	hdmi_audio_hw.c	/^  struct aml_audio_device *dev;$/;"	m	struct:aml_stream_in	typeref:struct:aml_stream_in::aml_audio_device	file:
+dev	hdmi_audio_hw.c	/^  struct aml_audio_device *dev;$/;"	m	struct:aml_stream_out	typeref:struct:aml_stream_out::aml_audio_device	file:
+dev	hdmi_hw.c	/^    struct aml_audio_device *dev;$/;"	m	struct:aml_stream_out	typeref:struct:aml_stream_out::aml_audio_device	file:
+dev	usb_audio_hw.c	/^    struct aml_audio_device *dev;$/;"	m	struct:aml_stream_in	typeref:struct:aml_stream_in::aml_audio_device	file:
+dev	usb_audio_hw.c	/^    struct aml_audio_device *dev;$/;"	m	struct:aml_stream_out	typeref:struct:aml_stream_out::aml_audio_device	file:
+device	audio_hw.c	/^    int device;$/;"	m	struct:aml_stream_in	file:
+device	audio_policy.c	/^    struct audio_policy_device device;$/;"	m	struct:default_ap_device	typeref:struct:default_ap_device::audio_policy_device	file:
+device	hdmi_audio_hw.c	/^  int device;$/;"	m	struct:aml_stream_in	file:
+device	libTVaudio/audio/aml_audio.c	/^    int device;$/;"	m	struct:aml_stream_in	file:
+device	libTVaudio/audio/aml_audio.c	/^    int device;$/;"	m	struct:aml_stream_out	file:
+deviceID	libTVaudio/audio/audio_usb_check.cpp	/^unsigned int deviceID = 0;$/;"	m	namespace:android	file:
+device_change_lock	libTVaudio/audio/aml_audio.c	/^pthread_mutex_t device_change_lock = PTHREAD_MUTEX_INITIALIZER;$/;"	v
+digital_raw_enable	libTVaudio/audio/aml_audio.c	/^static int digital_raw_enable = 0;$/;"	v	file:
+do_input_standby	audio_hw.c	/^static int do_input_standby(struct aml_stream_in *in)$/;"	f	file:
+do_input_standby	hdmi_audio_hw.c	/^do_input_standby (struct aml_stream_in *in)$/;"	f	file:
+do_input_standby	usb_audio_hw.c	/^static int do_input_standby(struct aml_stream_in *in)$/;"	f	file:
+do_output_standby	audio_hw.c	/^static int do_output_standby(struct aml_stream_out *out)$/;"	f	file:
+do_output_standby	hdmi_audio_hw.c	/^do_output_standby (struct aml_stream_out *out)$/;"	f	file:
+do_output_standby	hdmi_hw.c	/^static int do_output_standby(struct aml_stream_out *out)$/;"	f	file:
+do_output_standby	usb_audio_hw.c	/^static int do_output_standby(struct aml_stream_out *out)$/;"	f	file:
+echo_reference	audio_hw.c	/^    struct echo_reference_itfe *echo_reference;$/;"	m	struct:aml_audio_device	typeref:struct:aml_audio_device::echo_reference_itfe	file:
+echo_reference	audio_hw.c	/^    struct echo_reference_itfe *echo_reference;$/;"	m	struct:aml_stream_in	typeref:struct:aml_stream_in::echo_reference_itfe	file:
+echo_reference	audio_hw.c	/^    struct echo_reference_itfe *echo_reference;$/;"	m	struct:aml_stream_out	typeref:struct:aml_stream_out::echo_reference_itfe	file:
+echo_reference	hdmi_audio_hw.c	/^  struct echo_reference_itfe *echo_reference;$/;"	m	struct:aml_audio_device	typeref:struct:aml_audio_device::echo_reference_itfe	file:
+echo_reference	hdmi_audio_hw.c	/^  struct echo_reference_itfe *echo_reference;$/;"	m	struct:aml_stream_in	typeref:struct:aml_stream_in::echo_reference_itfe	file:
+echo_reference	hdmi_audio_hw.c	/^  struct echo_reference_itfe *echo_reference;$/;"	m	struct:aml_stream_out	typeref:struct:aml_stream_out::echo_reference_itfe	file:
+exit_pthread_for_android_check	libTVaudio/audio/audio_usb_check.cpp	/^extern "C" int exit_pthread_for_android_check$/;"	f
+first_write_status	hdmi_audio_hw.c	/^static unsigned int first_write_status;$/;"	v	file:
+force_all_standby	audio_hw.c	/^static void force_all_standby(struct aml_audio_device *adev)$/;"	f	file:
+force_all_standby	hdmi_audio_hw.c	/^force_all_standby (struct aml_audio_device *adev)$/;"	f	file:
+fram_write_sum	audio_hw.c	/^    int fram_write_sum;$/;"	m	struct:aml_stream_out	file:
+frame_count	audio_hw.c	/^    uint32_t frame_count;$/;"	m	struct:aml_stream_out	file:
+frames_in	audio_hw.c	/^    size_t frames_in;$/;"	m	struct:aml_stream_in	file:
+frames_in	hdmi_audio_hw.c	/^  size_t frames_in;$/;"	m	struct:aml_stream_in	file:
+frames_in	usb_audio_hw.c	/^    size_t frames_in;$/;"	m	struct:aml_stream_in	file:
+frmsizetab	libTVaudio/audio/DDP_media_source.h	/^const DDPshort frmsizetab[MAXFSCOD][MAXDDDATARATE] = {$/;"	m	namespace:android
+gDumpDataFd1	libTVaudio/audio/aml_audio.c	/^static int gDumpDataFd1 = -1;$/;"	v	file:
+gDumpDataFd2	libTVaudio/audio/aml_audio.c	/^static int gDumpDataFd2 = -1;$/;"	v	file:
+gDumpDataFlag	libTVaudio/audio/aml_audio.c	/^static int gDumpDataFlag = 0;$/;"	v	file:
+gEQLibHandler	libTVaudio/audio/audio_effect_control.c	/^static void *gEQLibHandler = NULL;$/;"	v	file:
+gSRSLibHandler	libTVaudio/audio/audio_effect_control.c	/^static void *gSRSLibHandler = NULL;$/;"	v	file:
+gUSBCheckFlag	libTVaudio/audio/aml_audio.c	/^static unsigned int gUSBCheckFlag = 0;$/;"	v	file:
+gUSBCheckLastFlag	libTVaudio/audio/aml_audio.c	/^static unsigned int gUSBCheckLastFlag = 0;$/;"	v	file:
+getDeviceForInputSource	DLGAudioPolicyManager.cpp	/^audio_devices_t DLGAudioPolicyManager::getDeviceForInputSource(audio_source_t inputSource)$/;"	f	class:android::DLGAudioPolicyManager
+getFormat	libTVaudio/audio/DDP_media_source.cpp	/^sp<MetaData> DDP_Media_Source::getFormat() {$/;"	f	class:android::DDP_Media_Source
+getSystemWriteService	libTVaudio/audio/DDP_media_source.cpp	/^const sp<ISystemControlService>& getSystemWriteService()$/;"	f	namespace:android
+get_aml_card	audio_hw.c	/^static int get_aml_card(void)$/;"	f	file:
+get_aml_card	hdmi_audio_hw.c	/^get_aml_card ()$/;"	f	file:
+get_aml_card	libTVaudio/audio/aml_audio.c	/^static int get_aml_card(void) {$/;"	f	file:
+get_aml_device	libTVaudio/audio/aml_audio.c	/^static int get_aml_device(int device_ID) {$/;"	f	file:
+get_android_stream_volume	libTVaudio/audio/audio_usb_check.cpp	/^extern "C" float get_android_stream_volume() {$/;"	f	namespace:android
+get_capture_delay	audio_hw.c	/^static void get_capture_delay(struct aml_stream_in *in,$/;"	f	file:
+get_capture_delay	hdmi_audio_hw.c	/^get_capture_delay (struct aml_stream_in *in,$/;"	f	file:
+get_channel_status	libTVaudio/audio/aml_audio.c	/^static int get_channel_status(void) {$/;"	f	file:
+get_codec_type	hdmi_audio_hw.c	/^get_codec_type (const char *path)$/;"	f	file:
+get_echo_reference	audio_hw.c	/^static struct echo_reference_itfe *get_echo_reference(struct aml_audio_device *adev,$/;"	f	file:
+get_echo_reference	hdmi_audio_hw.c	/^get_echo_reference (struct aml_audio_device *adev,$/;"	f	file:
+get_external_card	hdmi_audio_hw.c	/^get_external_card (int type)$/;"	f
+get_external_card	hdmi_hw.c	/^int get_external_card(int type)$/;"	f
+get_in_framesize	libTVaudio/audio/aml_audio.c	/^static int get_in_framesize(struct aml_stream_in *in) {$/;"	f	file:
+get_input_buffer_size	audio_hw.c	/^static size_t get_input_buffer_size(uint32_t sample_rate, audio_format_t format, int channel_count)$/;"	f	file:
+get_input_buffer_size	hdmi_audio_hw.c	/^get_input_buffer_size (uint32_t sample_rate, int format, int channel_count)$/;"	f	file:
+get_input_buffer_size	usb_audio_hw.c	/^static size_t get_input_buffer_size(uint32_t sample_rate, int format, int channel_count)$/;"	f	file:
+get_next_buffer	audio_hw.c	/^static int get_next_buffer(struct resampler_buffer_provider *buffer_provider,$/;"	f	file:
+get_next_buffer	hdmi_audio_hw.c	/^get_next_buffer (struct resampler_buffer_provider *buffer_provider,$/;"	f	file:
+get_next_buffer	usb_audio_hw.c	/^static int get_next_buffer(struct resampler_buffer_provider *buffer_provider,$/;"	f	file:
+get_out_framesize	libTVaudio/audio/aml_audio.c	/^static int get_out_framesize(struct aml_stream_out *out) {$/;"	f	file:
+get_pcm_bt_port	audio_hw.c	/^static int get_pcm_bt_port(void)$/;"	f	file:
+get_playback_delay	audio_hw.c	/^static int get_playback_delay(struct aml_stream_out *out,$/;"	f	file:
+get_playback_delay	hdmi_audio_hw.c	/^get_playback_delay (struct aml_stream_out *out,$/;"	f	file:
+get_spdif_port	audio_hw.c	/^static int get_spdif_port(){$/;"	f	file:
+get_spdif_port	hdmi_audio_hw.c	/^get_spdif_port ()$/;"	f	file:
+get_sysfs_int	audio_hw.c	/^static int get_sysfs_int(const char * path)$/;"	f	file:
+get_sysfs_int	hdmi_audio_hw.c	/^get_sysfs_int (const char *path)$/;"	f	file:
+get_usb_cap	usb_audio_hw.c	/^static int get_usb_cap(char *type, uint *channels, uint *sampleRate, int card)$/;"	f	file:
+get_usb_card	usb_audio_hw.c	/^static int get_usb_card(struct aml_audio_device *dev)$/;"	f	file:
+getnumOfRates	usb_audio_hw.c	/^int getnumOfRates(char *ratesStr){$/;"	f
+getprop_bool	audio_hw.c	/^static int getprop_bool(const char * path)$/;"	f	file:
+getprop_bool	hdmi_audio_hw.c	/^getprop_bool (const char *path)$/;"	f	file:
+getprop_bool	libTVaudio/audio/aml_audio.c	/^static int getprop_bool(const char * path)$/;"	f	file:
+glpTracker	libTVaudio/audio/android_out.cpp	/^static AudioTrack *glpTracker = NULL;$/;"	v	file:
+glpTracker_raw	libTVaudio/audio/android_out.cpp	/^static AudioTrack *glpTracker_raw = NULL;$/;"	v	file:
+gmAmlDevice	libTVaudio/audio/aml_audio.c	/^static struct aml_dev gmAmlDevice = {$/;"	v	typeref:struct:aml_dev	file:
+gmpAudioTracker	libTVaudio/audio/android_out.cpp	/^static sp<AudioTrack> gmpAudioTracker;$/;"	v	file:
+gmpAudioTracker_raw	libTVaudio/audio/android_out.cpp	/^static sp<AudioTrack> gmpAudioTracker_raw;$/;"	v	file:
+gpAmlDevice	libTVaudio/audio/aml_audio.c	/^static struct aml_dev *gpAmlDevice = NULL;$/;"	v	typeref:struct:aml_dev	file:
+hal_module_methods	audio_hw.c	/^static struct hw_module_methods_t hal_module_methods = {$/;"	v	typeref:struct:hw_module_methods_t	file:
+hal_module_methods	hdmi_audio_hw.c	/^static struct hw_module_methods_t hal_module_methods = {$/;"	v	typeref:struct:hw_module_methods_t	file:
+hal_module_methods	hdmi_hw.c	/^static struct hw_module_methods_t hal_module_methods = {$/;"	v	typeref:struct:hw_module_methods_t	file:
+hal_module_methods	usb_audio_hw.c	/^static struct hw_module_methods_t hal_module_methods = {$/;"	v	typeref:struct:hw_module_methods_t	file:
+has_EQ_lib	audio_hw.c	/^    int has_EQ_lib;$/;"	m	struct:aml_stream_out	file:
+has_EQ_lib	libTVaudio/audio/aml_audio.c	/^    int has_EQ_lib;$/;"	m	struct:aml_dev	file:
+has_SRS_lib	audio_hw.c	/^    int has_SRS_lib;$/;"	m	struct:aml_stream_out	file:
+has_SRS_lib	libTVaudio/audio/aml_audio.c	/^    int has_SRS_lib;$/;"	m	struct:aml_dev	file:
+hw_device	audio_hw.c	/^    struct audio_hw_device hw_device;$/;"	m	struct:aml_audio_device	typeref:struct:aml_audio_device::audio_hw_device	file:
+hw_device	hdmi_audio_hw.c	/^  struct audio_hw_device hw_device;$/;"	m	struct:aml_audio_device	typeref:struct:aml_audio_device::audio_hw_device	file:
+hw_device	hdmi_hw.c	/^    struct audio_hw_device hw_device;$/;"	m	struct:aml_audio_device	typeref:struct:aml_audio_device::audio_hw_device	file:
+hw_device	usb_audio_hw.c	/^    struct audio_hw_device hw_device;$/;"	m	struct:aml_audio_device	typeref:struct:aml_audio_device::audio_hw_device	file:
+in	libTVaudio/audio/aml_audio.c	/^    struct aml_stream_in in;$/;"	m	struct:aml_dev	typeref:struct:aml_dev::aml_stream_in	file:
+in_add_audio_effect	audio_hw.c	/^static int in_add_audio_effect(const struct audio_stream *stream,$/;"	f	file:
+in_add_audio_effect	hdmi_audio_hw.c	/^in_add_audio_effect (const struct audio_stream *stream,$/;"	f	file:
+in_add_audio_effect	usb_audio_hw.c	/^static int in_add_audio_effect(const struct audio_stream *stream,$/;"	f	file:
+in_call	audio_hw.c	/^    int in_call;$/;"	m	struct:aml_audio_device	file:
+in_call	hdmi_audio_hw.c	/^  int in_call;$/;"	m	struct:aml_audio_device	file:
+in_config	usb_audio_hw.c	/^    struct pcm_config in_config;$/;"	m	struct:aml_stream_in	typeref:struct:aml_stream_in::pcm_config	file:
+in_device	audio_hw.c	/^    audio_devices_t in_device;$/;"	m	struct:aml_audio_device	file:
+in_device	hdmi_audio_hw.c	/^  audio_devices_t in_device;$/;"	m	struct:aml_audio_device	file:
+in_device	usb_audio_hw.c	/^    audio_devices_t in_device;$/;"	m	struct:aml_audio_device	file:
+in_dump	audio_hw.c	/^static int in_dump(const struct audio_stream *stream __unused, int fd __unused)$/;"	f	file:
+in_dump	hdmi_audio_hw.c	/^in_dump (const struct audio_stream *stream, int fd)$/;"	f	file:
+in_dump	usb_audio_hw.c	/^static int in_dump(const struct audio_stream *stream, int fd)$/;"	f	file:
+in_get_buffer_size	audio_hw.c	/^static size_t in_get_buffer_size(const struct audio_stream *stream)$/;"	f	file:
+in_get_buffer_size	hdmi_audio_hw.c	/^in_get_buffer_size (const struct audio_stream *stream)$/;"	f	file:
+in_get_buffer_size	usb_audio_hw.c	/^static size_t in_get_buffer_size(const struct audio_stream *stream)$/;"	f	file:
+in_get_channels	audio_hw.c	/^static audio_channel_mask_t in_get_channels(const struct audio_stream *stream)$/;"	f	file:
+in_get_channels	hdmi_audio_hw.c	/^in_get_channels (const struct audio_stream *stream)$/;"	f	file:
+in_get_channels	usb_audio_hw.c	/^static audio_channel_mask_t in_get_channels(const struct audio_stream *stream)$/;"	f	file:
+in_get_format	audio_hw.c	/^static audio_format_t in_get_format(const struct audio_stream *stream __unused)$/;"	f	file:
+in_get_format	hdmi_audio_hw.c	/^in_get_format (const struct audio_stream *stream)$/;"	f	file:
+in_get_format	usb_audio_hw.c	/^static audio_format_t in_get_format(const struct audio_stream *stream)$/;"	f	file:
+in_get_input_frames_lost	audio_hw.c	/^static uint32_t in_get_input_frames_lost(struct audio_stream_in *stream __unused)$/;"	f	file:
+in_get_input_frames_lost	hdmi_audio_hw.c	/^in_get_input_frames_lost (struct audio_stream_in *stream)$/;"	f	file:
+in_get_input_frames_lost	usb_audio_hw.c	/^static uint32_t in_get_input_frames_lost(struct audio_stream_in *stream)$/;"	f	file:
+in_get_parameters	audio_hw.c	/^static char * in_get_parameters(const struct audio_stream *stream __unused,$/;"	f	file:
+in_get_parameters	hdmi_audio_hw.c	/^in_get_parameters (const struct audio_stream *stream, const char *keys)$/;"	f	file:
+in_get_parameters	usb_audio_hw.c	/^static char * in_get_parameters(const struct audio_stream *stream,$/;"	f	file:
+in_get_sample_rate	audio_hw.c	/^static uint32_t in_get_sample_rate(const struct audio_stream *stream)$/;"	f	file:
+in_get_sample_rate	hdmi_audio_hw.c	/^in_get_sample_rate (const struct audio_stream *stream)$/;"	f	file:
+in_get_sample_rate	usb_audio_hw.c	/^static uint32_t in_get_sample_rate(const struct audio_stream *stream)$/;"	f	file:
+in_pcm	usb_audio_hw.c	/^    struct pcm *in_pcm;$/;"	m	struct:aml_stream_in	typeref:struct:aml_stream_in::pcm	file:
+in_read	audio_hw.c	/^static ssize_t in_read(struct audio_stream_in *stream, void* buffer,$/;"	f	file:
+in_read	hdmi_audio_hw.c	/^in_read (struct audio_stream_in *stream, void *buffer, size_t bytes)$/;"	f	file:
+in_read	usb_audio_hw.c	/^static ssize_t in_read(struct audio_stream_in *stream, void* buffer,$/;"	f	file:
+in_remove_audio_effect	audio_hw.c	/^static int in_remove_audio_effect(const struct audio_stream *stream,$/;"	f	file:
+in_remove_audio_effect	hdmi_audio_hw.c	/^in_remove_audio_effect (const struct audio_stream *stream,$/;"	f	file:
+in_remove_audio_effect	usb_audio_hw.c	/^static int in_remove_audio_effect(const struct audio_stream *stream,$/;"	f	file:
+in_set_format	audio_hw.c	/^static int in_set_format(struct audio_stream *stream __unused, audio_format_t format __unused)$/;"	f	file:
+in_set_format	hdmi_audio_hw.c	/^in_set_format (struct audio_stream *stream, audio_format_t format)$/;"	f	file:
+in_set_format	usb_audio_hw.c	/^static int in_set_format(struct audio_stream *stream, audio_format_t format)$/;"	f	file:
+in_set_gain	audio_hw.c	/^static int in_set_gain(struct audio_stream_in *stream __unused, float gain __unused)$/;"	f	file:
+in_set_gain	hdmi_audio_hw.c	/^in_set_gain (struct audio_stream_in *stream, float gain)$/;"	f	file:
+in_set_gain	usb_audio_hw.c	/^static int in_set_gain(struct audio_stream_in *stream, float gain)$/;"	f	file:
+in_set_parameters	audio_hw.c	/^static int in_set_parameters(struct audio_stream *stream, const char *kvpairs)$/;"	f	file:
+in_set_parameters	hdmi_audio_hw.c	/^in_set_parameters (struct audio_stream *stream, const char *kvpairs)$/;"	f	file:
+in_set_parameters	usb_audio_hw.c	/^static int in_set_parameters(struct audio_stream *stream, const char *kvpairs)$/;"	f	file:
+in_set_sample_rate	audio_hw.c	/^static int in_set_sample_rate(struct audio_stream *stream __unused, uint32_t rate __unused)$/;"	f	file:
+in_set_sample_rate	hdmi_audio_hw.c	/^in_set_sample_rate (struct audio_stream *stream, uint32_t rate)$/;"	f	file:
+in_set_sample_rate	usb_audio_hw.c	/^static int in_set_sample_rate(struct audio_stream *stream, uint32_t rate)$/;"	f	file:
+in_standby	audio_hw.c	/^static int in_standby(struct audio_stream *stream)$/;"	f	file:
+in_standby	hdmi_audio_hw.c	/^in_standby (struct audio_stream *stream)$/;"	f	file:
+in_standby	usb_audio_hw.c	/^static int in_standby(struct audio_stream *stream)$/;"	f	file:
+indexMIn	hdmi_audio_hw.c	/^  int indexMIn;$/;"	m	struct:aml_stream_in	file:
+indexMax	hdmi_audio_hw.c	/^  int indexMax;$/;"	m	struct:aml_stream_in	file:
+input_sr	audio_resampler.h	/^    unsigned int input_sr;$/;"	m	struct:resample_para
+input_standby	audio_hw.c	/^static bool input_standby = true;$/;"	v	file:
+is_tv_platform	audio_hw.c	/^    int is_tv_platform;$/;"	m	struct:aml_stream_out	file:
+is_tv_platform	libTVaudio/audio/aml_audio.c	/^    int is_tv_platform;$/;"	m	struct:aml_stream_out	file:
+last_aformat	libTVaudio/audio/android_out.cpp	/^static audio_format_t last_aformat = AUDIO_FORMAT_AC3;$/;"	v	file:
+last_codec_type	hdmi_audio_hw.c	/^static int last_codec_type = -1;$/;"	v	file:
+last_vol	libTVaudio/audio/audio_usb_check.cpp	/^static float last_vol = 1.0;$/;"	m	namespace:android	file:
+last_volume	hdmi_audio_hw.c	/^  float last_volume;$/;"	m	struct:aml_stream_in	file:
+lastsample_left	audio_resampler.h	/^    short lastsample_left;$/;"	m	struct:resample_para
+lastsample_left	libTVaudio/audio/aml_audio.c	/^    short lastsample_left;$/;"	m	struct:resample_para	file:
+lastsample_right	audio_resampler.h	/^    short lastsample_right;$/;"	m	struct:resample_para
+lastsample_right	libTVaudio/audio/aml_audio.c	/^    short lastsample_right;$/;"	m	struct:resample_para	file:
+level	libTVaudio/audio/aml_audio.c	/^    int level;$/;"	m	struct:buffer_status	file:
+load_EQ_lib	libTVaudio/audio/audio_effect_control.c	/^int load_EQ_lib(void) {$/;"	f
+load_SRS_lib	libTVaudio/audio/audio_effect_control.c	/^int load_SRS_lib(void) {$/;"	f
+lock	audio_hw.c	/^    pthread_mutex_t lock;       \/* see note below on mutex acquisition order *\/$/;"	m	struct:aml_audio_device	file:
+lock	audio_hw.c	/^    pthread_mutex_t lock;       \/* see note below on mutex acquisition order *\/$/;"	m	struct:aml_stream_in	file:
+lock	audio_hw.c	/^    pthread_mutex_t lock;       \/* see note below on mutex acquisition order *\/$/;"	m	struct:aml_stream_out	file:
+lock	hdmi_audio_hw.c	/^  pthread_mutex_t lock;		\/* see note below on mutex acquisition order *\/$/;"	m	struct:aml_audio_device	file:
+lock	hdmi_audio_hw.c	/^  pthread_mutex_t lock;		\/* see note below on mutex acquisition order *\/$/;"	m	struct:aml_stream_in	file:
+lock	hdmi_audio_hw.c	/^  pthread_mutex_t lock;		\/* see note below on mutex acquisition order *\/$/;"	m	struct:aml_stream_out	file:
+lock	hdmi_hw.c	/^	pthread_mutex_t lock;       \/* see note below on mutex acquisition order *\/$/;"	m	struct:aml_audio_device	file:
+lock	hdmi_hw.c	/^	pthread_mutex_t lock;       \/* see note below on mutex acquisition order *\/$/;"	m	struct:aml_stream_out	file:
+lock	libTVaudio/audio/DDP_media_source.h	/^    pthread_mutex_t lock;$/;"	m	class:android::Aml_OMX_Codec
+lock	libTVaudio/audio/aml_audio.c	/^    pthread_mutex_t lock;$/;"	m	struct:aml_stream_in	file:
+lock	libTVaudio/audio/aml_audio.c	/^    pthread_mutex_t lock;$/;"	m	struct:aml_stream_out	file:
+lock	libTVaudio/audio/aml_audio.h	/^    pthread_mutex_t lock;$/;"	m	struct:circle_buffer
+lock	usb_audio_hw.c	/^    pthread_mutex_t lock;       \/* see note below on mutex acquisition order *\/$/;"	m	struct:aml_audio_device	file:
+lock	usb_audio_hw.c	/^    pthread_mutex_t lock;       \/* see note below on mutex acquisition order *\/$/;"	m	struct:aml_stream_in	file:
+lock	usb_audio_hw.c	/^    pthread_mutex_t lock;       \/* see note below on mutex acquisition order *\/$/;"	m	struct:aml_stream_out	file:
+lock_init	libTVaudio/audio/DDP_media_source.cpp	/^void Aml_OMX_Codec::lock_init() {$/;"	f	class:android::Aml_OMX_Codec
+locked	libTVaudio/audio/DDP_media_source.cpp	/^void Aml_OMX_Codec::locked() {$/;"	f	class:android::Aml_OMX_Codec
+low_power	audio_hw.c	/^    bool low_power;$/;"	m	struct:aml_audio_device	file:
+low_power	audio_hw.c	/^    bool low_power;$/;"	m	struct:aml_stream_out	file:
+low_power	hdmi_audio_hw.c	/^  bool low_power;$/;"	m	struct:aml_audio_device	file:
+low_power	hdmi_audio_hw.c	/^  bool low_power;$/;"	m	struct:aml_stream_out	file:
+mChNum	libTVaudio/audio/DDP_media_source.h	/^    int mChNum;$/;"	m	class:android::DDP_Media_Source
+mDBAttenuation	hdmi_audio_hw.c	/^  float mDBAttenuation;$/;"	m	struct:VolumeCurvePoint	file:
+mForceSubmixInputSelection	DLGAudioPolicyManager.h	/^    bool mForceSubmixInputSelection;$/;"	m	class:android::DLGAudioPolicyManager
+mFrame_size	libTVaudio/audio/DDP_media_source.h	/^    int mFrame_size;$/;"	m	class:android::DDP_Media_Source
+mGroup	libTVaudio/audio/DDP_media_source.h	/^    MediaBufferGroup *mGroup;$/;"	m	class:android::DDP_Media_Source
+mIndex	hdmi_audio_hw.c	/^  int mIndex;$/;"	m	struct:VolumeCurvePoint	file:
+mIndexCur	hdmi_audio_hw.c	/^  int mIndexCur[15];		\/\/ current volume index$/;"	m	struct:StreamDescriptor	file:
+mIndexMax	hdmi_audio_hw.c	/^  int mIndexMax;		\/\/ max volume index$/;"	m	struct:StreamDescriptor	file:
+mIndexMin	hdmi_audio_hw.c	/^  int mIndexMin;		\/\/ min volume index$/;"	m	struct:StreamDescriptor	file:
+mMeta	libTVaudio/audio/DDP_media_source.h	/^    sp<MetaData> mMeta;$/;"	m	class:android::DDP_Media_Source
+mSample_rate	libTVaudio/audio/DDP_media_source.h	/^    int mSample_rate;$/;"	m	class:android::DDP_Media_Source
+mStarted	libTVaudio/audio/DDP_media_source.h	/^    bool mStarted;$/;"	m	class:android::DDP_Media_Source
+mStop_ReadBuf_Flag	libTVaudio/audio/DDP_media_source.h	/^    int mStop_ReadBuf_Flag;$/;"	m	class:android::DDP_Media_Source
+mVolumeCurve	hdmi_audio_hw.c	/^  struct VolumeCurvePoint *mVolumeCurve;$/;"	m	struct:StreamDescriptor	typeref:struct:StreamDescriptor::VolumeCurvePoint	file:
+m_OMXClient	libTVaudio/audio/DDP_media_source.h	/^    OMXClient m_OMXClient;$/;"	m	class:android::Aml_OMX_Codec
+m_OMXMediaSource	libTVaudio/audio/DDP_media_source.h	/^    sp<DDP_Media_Source> m_OMXMediaSource;$/;"	m	class:android::Aml_OMX_Codec
+m_codec	libTVaudio/audio/DDP_media_source.h	/^    sp<MediaSource> m_codec;$/;"	m	class:android::Aml_OMX_Codec
+main	libTVaudio/audio/amaudio_main.cpp	/^int main(int argc, char** argv) {$/;"	f
+malloc_buffer	libTVaudio/audio/aml_audio.c	/^static int malloc_buffer(struct aml_dev *device) {$/;"	f	file:
+max_bytes	libTVaudio/audio/aml_audio.c	/^    int max_bytes;$/;"	m	struct:aml_stream_in	file:
+mic_mute	audio_hw.c	/^    bool mic_mute;$/;"	m	struct:aml_audio_device	file:
+mic_mute	hdmi_audio_hw.c	/^  bool mic_mute;$/;"	m	struct:aml_audio_device	file:
+mic_mute	hdmi_hw.c	/^	bool mic_mute;$/;"	m	struct:aml_audio_device	file:
+mic_mute	usb_audio_hw.c	/^    bool mic_mute;$/;"	m	struct:aml_audio_device	file:
+mode	audio_hw.c	/^    int mode;$/;"	m	struct:aml_audio_device	file:
+mode	hdmi_audio_hw.c	/^  int mode;$/;"	m	struct:aml_audio_device	file:
+mode	hdmi_hw.c	/^    int mode;$/;"	m	struct:aml_audio_device	file:
+module	audio_policy.c	/^    struct audio_policy_module module;$/;"	m	struct:default_ap_module	typeref:struct:default_ap_module::audio_policy_module	file:
+msktab	libTVaudio/audio/DDP_media_source.h	/^const DDPushort msktab[] = { 0x0000, 0x8000, 0xc000, 0xe000, 0xf000, 0xf800,$/;"	m	namespace:android
+multich	hdmi_audio_hw.c	/^  unsigned multich;$/;"	m	struct:aml_stream_out	file:
+mute_raw_data_size	libTVaudio/audio/android_out.cpp	/^static int mute_raw_data_size = 0;$/;"	v	file:
+need_echo_reference	audio_hw.c	/^    bool need_echo_reference;$/;"	m	struct:aml_stream_in	file:
+need_echo_reference	hdmi_audio_hw.c	/^  bool need_echo_reference;$/;"	m	struct:aml_stream_in	file:
+new_android_audiotrack	libTVaudio/audio/android_out.cpp	/^int new_android_audiotrack(void) {$/;"	f
+new_audiotrack	libTVaudio/audio/aml_audio.c	/^static int new_audiotrack(struct aml_stream_out *out) {$/;"	f	file:
+new_audiotrack_nowait	libTVaudio/audio/aml_audio.c	/^static int new_audiotrack_nowait(struct aml_stream_out *out) {$/;"	f	file:
+num_preprocessors	audio_hw.c	/^    int num_preprocessors;$/;"	m	struct:aml_stream_in	file:
+num_preprocessors	hdmi_audio_hw.c	/^  int num_preprocessors;$/;"	m	struct:aml_stream_in	file:
+omx_codec_close	libTVaudio/audio/DDP_media_source.cpp	/^void omx_codec_close(void) {$/;"	f
+omx_codec_get_FS	libTVaudio/audio/DDP_media_source.cpp	/^int omx_codec_get_FS() {$/;"	f	namespace:android
+omx_codec_get_Nch	libTVaudio/audio/DDP_media_source.cpp	/^int omx_codec_get_Nch() {$/;"	f	namespace:android
+omx_codec_get_declen	libTVaudio/audio/DDP_media_source.cpp	/^int omx_codec_get_declen() {$/;"	f	namespace:android
+omx_codec_init	libTVaudio/audio/DDP_media_source.cpp	/^int omx_codec_init(void) {$/;"	f
+omx_codec_pause	libTVaudio/audio/DDP_media_source.cpp	/^void omx_codec_pause() {$/;"	f	namespace:android
+omx_codec_read	libTVaudio/audio/DDP_media_source.cpp	/^void omx_codec_read(unsigned char *buf, unsigned *size, int *exit) {$/;"	f	namespace:android
+omx_started	libTVaudio/audio/aml_audio.c	/^static int omx_started = 0;$/;"	v	file:
+out	libTVaudio/audio/aml_audio.c	/^    struct aml_stream_out out;$/;"	m	struct:aml_dev	typeref:struct:aml_dev::aml_stream_out	file:
+out_add_audio_effect	audio_hw.c	/^static int out_add_audio_effect(const struct audio_stream *stream __unused, effect_handle_t effect __unused)$/;"	f	file:
+out_add_audio_effect	hdmi_audio_hw.c	/^out_add_audio_effect (const struct audio_stream *stream,$/;"	f	file:
+out_add_audio_effect	hdmi_hw.c	/^static int out_add_audio_effect(const struct audio_stream *stream, effect_handle_t effect)$/;"	f	file:
+out_add_audio_effect	usb_audio_hw.c	/^static int out_add_audio_effect(const struct audio_stream *stream, effect_handle_t effect)$/;"	f	file:
+out_config	usb_audio_hw.c	/^    struct pcm_config out_config;$/;"	m	struct:aml_stream_out	typeref:struct:aml_stream_out::pcm_config	file:
+out_device	audio_hw.c	/^    audio_devices_t out_device;$/;"	m	struct:aml_audio_device	file:
+out_device	hdmi_audio_hw.c	/^  audio_devices_t out_device;$/;"	m	struct:aml_audio_device	file:
+out_device	hdmi_hw.c	/^	audio_devices_t out_device;$/;"	m	struct:aml_audio_device	file:
+out_device	usb_audio_hw.c	/^    audio_devices_t out_device;$/;"	m	struct:aml_audio_device	file:
+out_dump	audio_hw.c	/^static int out_dump(const struct audio_stream *stream __unused, int fd __unused)$/;"	f	file:
+out_dump	hdmi_audio_hw.c	/^out_dump (const struct audio_stream *stream, int fd)$/;"	f	file:
+out_dump	hdmi_hw.c	/^static int out_dump(const struct audio_stream *stream, int fd)$/;"	f	file:
+out_dump	usb_audio_hw.c	/^static int out_dump(const struct audio_stream *stream, int fd)$/;"	f	file:
+out_get_buffer_size	audio_hw.c	/^static size_t out_get_buffer_size(const struct audio_stream *stream)$/;"	f	file:
+out_get_buffer_size	hdmi_audio_hw.c	/^out_get_buffer_size (const struct audio_stream *stream)$/;"	f	file:
+out_get_buffer_size	hdmi_hw.c	/^static size_t out_get_buffer_size(const struct audio_stream *stream)$/;"	f	file:
+out_get_buffer_size	usb_audio_hw.c	/^static size_t out_get_buffer_size(const struct audio_stream *stream)$/;"	f	file:
+out_get_channels	audio_hw.c	/^static audio_channel_mask_t out_get_channels(const struct audio_stream *stream __unused)$/;"	f	file:
+out_get_channels	hdmi_audio_hw.c	/^out_get_channels (const struct audio_stream *stream)$/;"	f	file:
+out_get_channels	hdmi_hw.c	/^static audio_channel_mask_t out_get_channels(const struct audio_stream *stream)$/;"	f	file:
+out_get_channels	usb_audio_hw.c	/^static audio_channel_mask_t out_get_channels(const struct audio_stream *stream)$/;"	f	file:
+out_get_format	audio_hw.c	/^static audio_format_t out_get_format(const struct audio_stream *stream __unused)$/;"	f	file:
+out_get_format	hdmi_audio_hw.c	/^out_get_format (const struct audio_stream *stream)$/;"	f	file:
+out_get_format	hdmi_hw.c	/^static audio_format_t out_get_format(const struct audio_stream *stream)$/;"	f	file:
+out_get_format	usb_audio_hw.c	/^static audio_format_t out_get_format(const struct audio_stream *stream)$/;"	f	file:
+out_get_latency	audio_hw.c	/^static uint32_t out_get_latency(const struct audio_stream_out *stream)$/;"	f	file:
+out_get_latency	hdmi_audio_hw.c	/^out_get_latency (const struct audio_stream_out *stream)$/;"	f	file:
+out_get_latency	hdmi_hw.c	/^static uint32_t out_get_latency(const struct audio_stream_out *stream)$/;"	f	file:
+out_get_latency	usb_audio_hw.c	/^static uint32_t out_get_latency(const struct audio_stream_out *stream)$/;"	f	file:
+out_get_next_write_timestamp	audio_hw.c	/^static int out_get_next_write_timestamp(const struct audio_stream_out *stream __unused,$/;"	f	file:
+out_get_next_write_timestamp	hdmi_audio_hw.c	/^out_get_next_write_timestamp (const struct audio_stream_out *stream,$/;"	f	file:
+out_get_next_write_timestamp	hdmi_hw.c	/^static int out_get_next_write_timestamp(const struct audio_stream_out *stream,$/;"	f	file:
+out_get_next_write_timestamp	usb_audio_hw.c	/^static int out_get_next_write_timestamp(const struct audio_stream_out *stream,$/;"	f	file:
+out_get_parameters	audio_hw.c	/^static char * out_get_parameters(const struct audio_stream *stream __unused, const char *keys __unused)$/;"	f	file:
+out_get_parameters	hdmi_audio_hw.c	/^out_get_parameters (const struct audio_stream *stream, const char *keys)$/;"	f	file:
+out_get_parameters	hdmi_hw.c	/^static char * out_get_parameters(const struct audio_stream *stream, const char *keys)$/;"	f	file:
+out_get_parameters	usb_audio_hw.c	/^static char * out_get_parameters(const struct audio_stream *stream, const char *keys)$/;"	f	file:
+out_get_presentation_position	audio_hw.c	/^static int out_get_presentation_position(const struct audio_stream_out *stream,uint64_t *frames, struct timespec *timestamp)$/;"	f	file:
+out_get_render_position	audio_hw.c	/^static int out_get_render_position(const struct audio_stream_out *stream,$/;"	f	file:
+out_get_render_position	hdmi_audio_hw.c	/^out_get_render_position (const struct audio_stream_out *stream,$/;"	f	file:
+out_get_render_position	hdmi_hw.c	/^static int out_get_render_position(const struct audio_stream_out *stream,$/;"	f	file:
+out_get_render_position	usb_audio_hw.c	/^static int out_get_render_position(const struct audio_stream_out *stream,$/;"	f	file:
+out_get_sample_rate	audio_hw.c	/^static uint32_t out_get_sample_rate(const struct audio_stream *stream __unused)$/;"	f	file:
+out_get_sample_rate	hdmi_audio_hw.c	/^out_get_sample_rate (const struct audio_stream *stream)$/;"	f	file:
+out_get_sample_rate	hdmi_hw.c	/^static uint32_t out_get_sample_rate(const struct audio_stream *stream)$/;"	f	file:
+out_get_sample_rate	usb_audio_hw.c	/^static uint32_t out_get_sample_rate(const struct audio_stream *stream)$/;"	f	file:
+out_pcm	usb_audio_hw.c	/^    struct pcm *out_pcm;$/;"	m	struct:aml_stream_out	typeref:struct:aml_stream_out::pcm	file:
+out_remove_audio_effect	audio_hw.c	/^static int out_remove_audio_effect(const struct audio_stream *stream __unused, effect_handle_t effect __unused)$/;"	f	file:
+out_remove_audio_effect	hdmi_audio_hw.c	/^out_remove_audio_effect (const struct audio_stream *stream,$/;"	f	file:
+out_remove_audio_effect	hdmi_hw.c	/^static int out_remove_audio_effect(const struct audio_stream *stream, effect_handle_t effect)$/;"	f	file:
+out_remove_audio_effect	usb_audio_hw.c	/^static int out_remove_audio_effect(const struct audio_stream *stream, effect_handle_t effect)$/;"	f	file:
+out_set_format	audio_hw.c	/^static int out_set_format(struct audio_stream *stream __unused, audio_format_t format __unused)$/;"	f	file:
+out_set_format	hdmi_audio_hw.c	/^out_set_format (struct audio_stream *stream, int format)$/;"	f	file:
+out_set_format	hdmi_hw.c	/^static int out_set_format(struct audio_stream *stream, int format)$/;"	f	file:
+out_set_format	usb_audio_hw.c	/^static int out_set_format(struct audio_stream *stream, audio_format_t format)$/;"	f	file:
+out_set_parameters	audio_hw.c	/^static int out_set_parameters(struct audio_stream *stream, const char *kvpairs)$/;"	f	file:
+out_set_parameters	hdmi_audio_hw.c	/^out_set_parameters (struct audio_stream *stream, const char *kvpairs)$/;"	f	file:
+out_set_parameters	hdmi_hw.c	/^static int out_set_parameters(struct audio_stream *stream, const char *kvpairs)$/;"	f	file:
+out_set_parameters	usb_audio_hw.c	/^static int out_set_parameters(struct audio_stream *stream, const char *kvpairs)$/;"	f	file:
+out_set_sample_rate	audio_hw.c	/^static int out_set_sample_rate(struct audio_stream *stream __unused, uint32_t rate __unused)$/;"	f	file:
+out_set_sample_rate	hdmi_audio_hw.c	/^out_set_sample_rate (struct audio_stream *stream, uint32_t rate)$/;"	f	file:
+out_set_sample_rate	hdmi_hw.c	/^static int out_set_sample_rate(struct audio_stream *stream, uint32_t rate)$/;"	f	file:
+out_set_sample_rate	usb_audio_hw.c	/^static int out_set_sample_rate(struct audio_stream *stream, uint32_t rate)$/;"	f	file:
+out_set_volume	audio_hw.c	/^static int out_set_volume(struct audio_stream_out *stream __unused, float left __unused, float right __unused)$/;"	f	file:
+out_set_volume	hdmi_audio_hw.c	/^out_set_volume (struct audio_stream_out *stream, float left, float right)$/;"	f	file:
+out_set_volume	hdmi_hw.c	/^static int out_set_volume(struct audio_stream_out *stream, float left,$/;"	f	file:
+out_set_volume	usb_audio_hw.c	/^static int out_set_volume(struct audio_stream_out *stream, float left,$/;"	f	file:
+out_standby	audio_hw.c	/^static int out_standby(struct audio_stream *stream)$/;"	f	file:
+out_standby	hdmi_audio_hw.c	/^out_standby (struct audio_stream *stream)$/;"	f	file:
+out_standby	hdmi_hw.c	/^static int out_standby(struct audio_stream *stream)$/;"	f	file:
+out_standby	usb_audio_hw.c	/^static int out_standby(struct audio_stream *stream)$/;"	f	file:
+out_write	audio_hw.c	/^static ssize_t out_write(struct audio_stream_out *stream, const void* buffer,$/;"	f	file:
+out_write	hdmi_audio_hw.c	/^out_write (struct audio_stream_out *stream, const void *buffer, size_t bytes)$/;"	f	file:
+out_write	hdmi_hw.c	/^static ssize_t out_write(struct audio_stream_out *stream, const void* buffer,$/;"	f	file:
+out_write	usb_audio_hw.c	/^static ssize_t out_write(struct audio_stream_out *stream, const void* buffer,$/;"	f	file:
+output_device	libTVaudio/audio/aml_audio.c	/^    int output_device;$/;"	m	struct:aml_stream_out	file:
+output_deviceID	libTVaudio/audio/aml_audio.c	/^    int output_deviceID;$/;"	m	struct:aml_dev	file:
+output_record_enable	libTVaudio/audio/aml_audio.c	/^int output_record_enable = 0;$/;"	v
+output_sr	audio_resampler.h	/^    unsigned int output_sr;$/;"	m	struct:resample_para
+output_standby	audio_hw.c	/^static bool output_standby = true;$/;"	v	file:
+pause	libTVaudio/audio/DDP_media_source.cpp	/^void Aml_OMX_Codec::pause() {$/;"	f	class:android::Aml_OMX_Codec
+pcm	audio_hw.c	/^    struct pcm *pcm;$/;"	m	struct:aml_stream_in	typeref:struct:aml_stream_in::pcm	file:
+pcm	audio_hw.c	/^    struct pcm *pcm;$/;"	m	struct:aml_stream_out	typeref:struct:aml_stream_out::pcm	file:
+pcm	hdmi_audio_hw.c	/^  struct pcm *pcm;$/;"	m	struct:aml_stream_in	typeref:struct:aml_stream_in::pcm	file:
+pcm	hdmi_audio_hw.c	/^  struct pcm *pcm;$/;"	m	struct:aml_stream_out	typeref:struct:aml_stream_out::pcm	file:
+pcm	hdmi_hw.c	/^    struct pcm *pcm;$/;"	m	struct:aml_stream_out	typeref:struct:aml_stream_out::pcm	file:
+pcm	libTVaudio/audio/aml_audio.c	/^    struct pcm *pcm;$/;"	m	struct:aml_stream_in	typeref:struct:aml_stream_in::pcm	file:
+pcm	libTVaudio/audio/aml_audio.c	/^    struct pcm *pcm;$/;"	m	struct:aml_stream_out	typeref:struct:aml_stream_out::pcm	file:
+pcm_config_bt	audio_hw.c	/^struct pcm_config pcm_config_bt = {$/;"	v	typeref:struct:pcm_config
+pcm_config_in	audio_hw.c	/^struct pcm_config pcm_config_in = {$/;"	v	typeref:struct:pcm_config
+pcm_config_in	hdmi_audio_hw.c	/^struct pcm_config pcm_config_in = {$/;"	v	typeref:struct:pcm_config
+pcm_config_in	libTVaudio/audio/aml_audio.c	/^static struct pcm_config pcm_config_in = {$/;"	v	typeref:struct:pcm_config	file:
+pcm_config_out	audio_hw.c	/^struct pcm_config pcm_config_out = {$/;"	v	typeref:struct:pcm_config
+pcm_config_out	hdmi_audio_hw.c	/^struct pcm_config pcm_config_out = {$/;"	v	typeref:struct:pcm_config
+pcm_config_out	hdmi_hw.c	/^struct pcm_config pcm_config_out = {$/;"	v	typeref:struct:pcm_config
+pcm_config_out	libTVaudio/audio/aml_audio.c	/^static struct pcm_config pcm_config_out = {$/;"	v	typeref:struct:pcm_config	file:
+pcm_data_counter	libTVaudio/audio/aml_audio.c	/^static int pcm_data_counter = 0;$/;"	v	file:
+pcm_in_config	usb_audio_hw.c	/^struct pcm_config pcm_in_config = {$/;"	v	typeref:struct:pcm_config
+pcm_modem_dl	hdmi_audio_hw.c	/^  struct pcm *pcm_modem_dl;$/;"	m	struct:aml_audio_device	typeref:struct:aml_audio_device::pcm	file:
+pcm_modem_ul	hdmi_audio_hw.c	/^  struct pcm *pcm_modem_ul;$/;"	m	struct:aml_audio_device	typeref:struct:aml_audio_device::pcm	file:
+pcm_out_config	usb_audio_hw.c	/^struct pcm_config pcm_out_config = {$/;"	v	typeref:struct:pcm_config
+playback_buf	libTVaudio/audio/aml_audio.c	/^    struct buffer_status playback_buf;$/;"	m	struct:aml_stream_out	typeref:struct:aml_stream_out::buffer_status	file:
+policy	audio_policy.c	/^    struct audio_policy policy;$/;"	m	struct:default_audio_policy	typeref:struct:default_audio_policy::audio_policy	file:
+preprocessors	audio_hw.c	/^    effect_handle_t preprocessors[MAX_PREPROCESSORS];$/;"	m	struct:aml_stream_in	file:
+preprocessors	hdmi_audio_hw.c	/^  effect_handle_t preprocessors[MAX_PREPROCESSORS];$/;"	m	struct:aml_stream_in	file:
+proc_buf	audio_hw.c	/^    int16_t *proc_buf;$/;"	m	struct:aml_stream_in	file:
+proc_buf	hdmi_audio_hw.c	/^  int16_t *proc_buf;$/;"	m	struct:aml_stream_in	file:
+proc_buf_size	audio_hw.c	/^    size_t proc_buf_size;$/;"	m	struct:aml_stream_in	file:
+proc_buf_size	hdmi_audio_hw.c	/^  size_t proc_buf_size;$/;"	m	struct:aml_stream_in	file:
+proc_frames_in	audio_hw.c	/^    size_t proc_frames_in;$/;"	m	struct:aml_stream_in	file:
+proc_frames_in	hdmi_audio_hw.c	/^  size_t proc_frames_in;$/;"	m	struct:aml_stream_in	file:
+process_frames	audio_hw.c	/^static ssize_t process_frames(struct aml_stream_in *in, void* buffer, ssize_t frames)$/;"	f	file:
+process_frames	hdmi_audio_hw.c	/^process_frames (struct aml_stream_in *in, void *buffer, ssize_t frames)$/;"	f	file:
+push_echo_reference	audio_hw.c	/^static void push_echo_reference(struct aml_stream_in *in, size_t frames)$/;"	f	file:
+push_echo_reference	hdmi_audio_hw.c	/^push_echo_reference (struct aml_stream_in *in, size_t frames)$/;"	f	file:
+put_echo_reference	audio_hw.c	/^static void put_echo_reference(struct aml_audio_device *adev,$/;"	f	file:
+put_echo_reference	hdmi_audio_hw.c	/^put_echo_reference (struct aml_audio_device *adev,$/;"	f	file:
+raw_data_counter	libTVaudio/audio/aml_audio.c	/^static int raw_data_counter = 0;$/;"	v	file:
+raw_start_flag	libTVaudio/audio/android_out.cpp	/^static int raw_start_flag = 0;$/;"	v	file:
+rd	libTVaudio/audio/aml_audio.c	/^    unsigned int rd;$/;"	m	struct:buffer_status	file:
+rd	libTVaudio/audio/aml_audio.h	/^    char *rd;$/;"	m	struct:circle_buffer
+read	libTVaudio/audio/DDP_media_source.cpp	/^status_t Aml_OMX_Codec::read(unsigned char *buf, unsigned *size, int *exit) {$/;"	f	class:android::Aml_OMX_Codec
+read	libTVaudio/audio/DDP_media_source.cpp	/^status_t DDP_Media_Source::read(MediaBuffer **out, const ReadOptions *options) {$/;"	f	class:android::DDP_Media_Source
+read_buffer	libTVaudio/audio/aml_audio.c	/^    void *read_buffer;$/;"	m	struct:aml_stream_out	file:
+read_frames	audio_hw.c	/^static ssize_t read_frames(struct aml_stream_in *in, void *buffer, ssize_t frames)$/;"	f	file:
+read_frames	hdmi_audio_hw.c	/^read_frames (struct aml_stream_in *in, void *buffer, ssize_t frames)$/;"	f	file:
+read_frames	usb_audio_hw.c	/^static ssize_t read_frames(struct aml_stream_in *in, void *buffer, ssize_t frames)$/;"	f	file:
+read_from_buffer	libTVaudio/audio/aml_audio.c	/^inline int read_from_buffer(char *current_pointer, char *buffer, int bytes,$/;"	f
+read_status	audio_hw.c	/^    int read_status;$/;"	m	struct:aml_stream_in	file:
+read_status	hdmi_audio_hw.c	/^  int read_status;$/;"	m	struct:aml_stream_in	file:
+read_status	usb_audio_hw.c	/^    int read_status;$/;"	m	struct:aml_stream_in	file:
+ref_buf	audio_hw.c	/^    int16_t *ref_buf;$/;"	m	struct:aml_stream_in	file:
+ref_buf	hdmi_audio_hw.c	/^  int16_t *ref_buf;$/;"	m	struct:aml_stream_in	file:
+ref_buf_size	audio_hw.c	/^    size_t ref_buf_size;$/;"	m	struct:aml_stream_in	file:
+ref_buf_size	hdmi_audio_hw.c	/^  size_t ref_buf_size;$/;"	m	struct:aml_stream_in	file:
+ref_frames_in	audio_hw.c	/^    size_t ref_frames_in;$/;"	m	struct:aml_stream_in	file:
+ref_frames_in	hdmi_audio_hw.c	/^  size_t ref_frames_in;$/;"	m	struct:aml_stream_in	file:
+release_android_audiotrack	libTVaudio/audio/android_out.cpp	/^int release_android_audiotrack(void) {$/;"	f
+release_audiotrack	libTVaudio/audio/aml_audio.c	/^static int release_audiotrack(struct aml_stream_out *out) {$/;"	f	file:
+release_buffer	audio_hw.c	/^static void release_buffer(struct resampler_buffer_provider *buffer_provider,$/;"	f	file:
+release_buffer	hdmi_audio_hw.c	/^release_buffer (struct resampler_buffer_provider *buffer_provider,$/;"	f	file:
+release_buffer	libTVaudio/audio/aml_audio.c	/^static int release_buffer(struct aml_dev *device) {$/;"	f	file:
+release_buffer	usb_audio_hw.c	/^static void release_buffer(struct resampler_buffer_provider *buffer_provider,$/;"	f	file:
+remove_echo_reference	audio_hw.c	/^static void remove_echo_reference(struct aml_stream_out *out,$/;"	f	file:
+remove_echo_reference	hdmi_audio_hw.c	/^remove_echo_reference (struct aml_stream_out *out,$/;"	f	file:
+requested_rate	audio_hw.c	/^    unsigned int requested_rate;$/;"	m	struct:aml_stream_in	file:
+requested_rate	hdmi_audio_hw.c	/^  unsigned int requested_rate;$/;"	m	struct:aml_stream_in	file:
+requested_rate	usb_audio_hw.c	/^    unsigned int requested_rate;$/;"	m	struct:aml_stream_in	file:
+resample	libTVaudio/audio/aml_audio.c	/^    struct resample_para resample;$/;"	m	struct:aml_stream_in	typeref:struct:aml_stream_in::resample_para	file:
+resample_para	audio_resampler.h	/^struct resample_para {$/;"	s
+resample_para	libTVaudio/audio/aml_audio.c	/^struct resample_para {$/;"	s	file:
+resample_process	audio_resampler.c	/^int resample_process(struct resample_para *resample, unsigned int in_frame,$/;"	f
+resample_process	libTVaudio/audio/aml_audio.c	/^static int resample_process(struct aml_stream_in *in, unsigned int in_frame,$/;"	f	file:
+resample_request	libTVaudio/audio/aml_audio.c	/^    int resample_request;$/;"	m	struct:aml_stream_in	file:
+resample_temp_buffer	libTVaudio/audio/aml_audio.c	/^    void *resample_temp_buffer;$/;"	m	struct:aml_stream_in	file:
+resampler	audio_hw.c	/^    struct resampler_itfe *resampler;$/;"	m	struct:aml_stream_in	typeref:struct:aml_stream_in::resampler_itfe	file:
+resampler	audio_hw.c	/^    struct resampler_itfe *resampler;$/;"	m	struct:aml_stream_out	typeref:struct:aml_stream_out::resampler_itfe	file:
+resampler	hdmi_audio_hw.c	/^  struct resampler_itfe *resampler;$/;"	m	struct:aml_stream_in	typeref:struct:aml_stream_in::resampler_itfe	file:
+resampler	hdmi_audio_hw.c	/^  struct resampler_itfe *resampler;$/;"	m	struct:aml_stream_out	typeref:struct:aml_stream_out::resampler_itfe	file:
+resampler	hdmi_hw.c	/^    struct resampler_itfe *resampler;$/;"	m	struct:aml_stream_out	typeref:struct:aml_stream_out::resampler_itfe	file:
+resampler	usb_audio_hw.c	/^    struct resample_para resampler;$/;"	m	struct:aml_stream_out	typeref:struct:aml_stream_out::resample_para	file:
+resampler	usb_audio_hw.c	/^    struct resampler_itfe *resampler;$/;"	m	struct:aml_stream_in	typeref:struct:aml_stream_in::resampler_itfe	file:
+resampler_init	audio_resampler.c	/^int resampler_init(struct resample_para *resample) {$/;"	f
+resampler_init	libTVaudio/audio/aml_audio.c	/^static int resampler_init(struct aml_stream_in *in) {$/;"	f	file:
+reset_amaudio	libTVaudio/audio/aml_audio.c	/^static int reset_amaudio(struct aml_stream_out *out, int delay_size) {$/;"	f	file:
+running_flag	libTVaudio/audio/audio_usb_check.cpp	/^static int running_flag = 0;$/;"	v	file:
+sSpeakerMediaVolumeCurve	hdmi_audio_hw.c	/^struct VolumeCurvePoint sSpeakerMediaVolumeCurve[VOLCNT] = {$/;"	v	typeref:struct:VolumeCurvePoint
+select_devices	audio_hw.c	/^static void select_devices(struct aml_audio_device *adev)$/;"	f	file:
+select_input_device	hdmi_audio_hw.c	/^select_input_device (struct aml_audio_device *adev)$/;"	f	file:
+select_mode	audio_hw.c	/^static void select_mode(struct aml_audio_device *adev)$/;"	f	file:
+select_mode	hdmi_audio_hw.c	/^select_mode (struct aml_audio_device *adev)$/;"	f	file:
+select_output_device	hdmi_audio_hw.c	/^select_output_device (struct aml_audio_device *adev)$/;"	f	file:
+service	audio_policy.c	/^    void *service;$/;"	m	struct:default_audio_policy	file:
+setDeviceConnectionState	DLGAudioPolicyManager.cpp	/^status_t DLGAudioPolicyManager::setDeviceConnectionState(audio_devices_t device,$/;"	f	class:android::DLGAudioPolicyManager
+set_Hardware_resample	libTVaudio/audio/aml_audio.c	/^static int set_Hardware_resample(int enable) {$/;"	f	file:
+set_amaudio2_enable	libTVaudio/audio/aml_audio.c	/^static int set_amaudio2_enable(int flag) {$/;"	f	file:
+set_input_device	libTVaudio/audio/aml_audio.c	/^static int set_input_device(int flag) {$/;"	f	file:
+set_input_stream_sample_rate	libTVaudio/audio/aml_audio.c	/^static int set_input_stream_sample_rate(unsigned int sr,$/;"	f	file:
+set_left_gain	libTVaudio/audio/aml_audio.c	/^int set_left_gain(int left_gain) {$/;"	f
+set_music_gain	libTVaudio/audio/aml_audio.c	/^int set_music_gain(int gain) {$/;"	f
+set_output_deviceID	libTVaudio/audio/aml_audio.c	/^static int set_output_deviceID(int deviceID) {$/;"	f	file:
+set_output_mode	libTVaudio/audio/aml_audio.c	/^int set_output_mode(int mode) {$/;"	f
+set_output_record_enable	libTVaudio/audio/aml_audio.c	/^int set_output_record_enable(int enable) {$/;"	f
+set_parameters	libTVaudio/audio/audio_usb_check.cpp	/^extern "C" int set_parameters(char parameters[], char parm_key[]) {$/;"	f	namespace:android
+set_preprocessor_echo_delay	audio_hw.c	/^static int set_preprocessor_echo_delay(effect_handle_t handle,$/;"	f	file:
+set_preprocessor_echo_delay	hdmi_audio_hw.c	/^set_preprocessor_echo_delay (effect_handle_t handle, int32_t delay_us)$/;"	f	file:
+set_preprocessor_param	audio_hw.c	/^static int set_preprocessor_param(effect_handle_t handle,$/;"	f	file:
+set_preprocessor_param	hdmi_audio_hw.c	/^set_preprocessor_param (effect_handle_t handle, effect_param_t * param)$/;"	f	file:
+set_rawdata_in_disable	libTVaudio/audio/aml_audio.c	/^static int set_rawdata_in_disable(struct aml_stream_out *out) {$/;"	f	file:
+set_rawdata_in_enable	libTVaudio/audio/aml_audio.c	/^ static int set_rawdata_in_enable(struct aml_stream_out *out) {$/;"	f	file:
+set_right_gain	libTVaudio/audio/aml_audio.c	/^int set_right_gain(int right_gain) {$/;"	f
+set_sysfs_type	audio_hw.c	/^static int set_sysfs_type(const char *path, const char *type)$/;"	f	file:
+size	libTVaudio/audio/aml_audio.c	/^    int size;$/;"	m	struct:buffer_status	file:
+size	libTVaudio/audio/aml_audio.h	/^    int size;$/;"	m	struct:circle_buffer
+source	audio_hw.c	/^    int source;$/;"	m	struct:aml_stream_in	file:
+source	hdmi_audio_hw.c	/^  int source;$/;"	m	struct:aml_stream_in	file:
+spdif_audio_type	libTVaudio/audio/aml_audio.c	/^int spdif_audio_type = LPCM;$/;"	v
+srs_dialogclarity_enable	libTVaudio/audio/audio_effect_control.c	/^int srs_dialogclarity_enable(int enable) {$/;"	f
+srs_getParameter	libTVaudio/audio/audio_effect_control.c	/^int srs_getParameter(int SRS_user_config[]) {$/;"	f
+srs_init	libTVaudio/audio/audio_effect_control.c	/^int srs_init(int sample_rate) {$/;"	f
+srs_param_buf	libTVaudio/audio/audio_amaudio.cpp	/^int srs_param_buf[5] = { 0, 0, 0, 0, 0};$/;"	v
+srs_process	libTVaudio/audio/audio_effect_control.c	/^int srs_process(short *in, short *out, int framecount) {$/;"	f
+srs_release	libTVaudio/audio/audio_effect_control.c	/^int srs_release(void) {$/;"	f
+srs_setParameter	libTVaudio/audio/audio_effect_control.c	/^int srs_setParameter(int SRS_user_config[]) {$/;"	f
+srs_set_gain	libTVaudio/audio/audio_effect_control.c	/^int srs_set_gain(int input_gain, int output_gain) {$/;"	f
+srs_surround_enable	libTVaudio/audio/audio_effect_control.c	/^int srs_surround_enable(int enable) {$/;"	f
+srs_switch	libTVaudio/audio/audio_amaudio.cpp	/^int srs_switch[3]= {0, 0, 0};$/;"	v
+srs_truebass_enable	libTVaudio/audio/audio_effect_control.c	/^int srs_truebass_enable(int enable) {$/;"	f
+standby	audio_hw.c	/^    bool standby;$/;"	m	struct:aml_stream_in	file:
+standby	audio_hw.c	/^    bool standby;$/;"	m	struct:aml_stream_out	file:
+standby	hdmi_audio_hw.c	/^  int standby;$/;"	m	struct:aml_stream_in	file:
+standby	hdmi_audio_hw.c	/^  int standby;$/;"	m	struct:aml_stream_out	file:
+standby	hdmi_hw.c	/^    int standby;$/;"	m	struct:aml_stream_out	file:
+standby	libTVaudio/audio/aml_audio.c	/^    int standby;$/;"	m	struct:aml_stream_in	file:
+standby	libTVaudio/audio/aml_audio.c	/^    int standby;$/;"	m	struct:aml_stream_out	file:
+standby	usb_audio_hw.c	/^    bool standby;$/;"	m	struct:aml_audio_device	file:
+standby	usb_audio_hw.c	/^    bool standby;$/;"	m	struct:aml_stream_in	file:
+standby	usb_audio_hw.c	/^    bool standby;$/;"	m	struct:aml_stream_out	file:
+start	libTVaudio/audio/DDP_media_source.cpp	/^status_t Aml_OMX_Codec::start() {$/;"	f	class:android::Aml_OMX_Codec
+start	libTVaudio/audio/DDP_media_source.cpp	/^status_t DDP_Media_Source::start(MetaData *params) {$/;"	f	class:android::DDP_Media_Source
+start_add	libTVaudio/audio/aml_audio.c	/^    unsigned char *start_add;$/;"	m	struct:buffer_status	file:
+start_add	libTVaudio/audio/aml_audio.h	/^    char *start_add;$/;"	m	struct:circle_buffer
+start_decode_thread_omx	libTVaudio/audio/DDP_media_source.cpp	/^static int start_decode_thread_omx(void) {$/;"	f	namespace:android
+start_input_stream	audio_hw.c	/^static int start_input_stream(struct aml_stream_in *in)$/;"	f	file:
+start_input_stream	hdmi_audio_hw.c	/^start_input_stream (struct aml_stream_in *in)$/;"	f	file:
+start_input_stream	usb_audio_hw.c	/^static int start_input_stream(struct aml_stream_in *in)$/;"	f	file:
+start_output_stream	audio_hw.c	/^static int start_output_stream(struct aml_stream_out *out)$/;"	f	file:
+start_output_stream	hdmi_audio_hw.c	/^start_output_stream (struct aml_stream_out *out)$/;"	f	file:
+start_output_stream	hdmi_hw.c	/^static int start_output_stream(struct aml_stream_out *out)$/;"	f	file:
+start_output_stream	usb_audio_hw.c	/^static int start_output_stream(struct aml_stream_out *out)$/;"	f	file:
+start_temp_buffer	libTVaudio/audio/aml_audio.c	/^static void *start_temp_buffer = NULL;$/;"	v	file:
+stop	libTVaudio/audio/DDP_media_source.cpp	/^status_t DDP_Media_Source::stop() {$/;"	f	class:android::DDP_Media_Source
+stop	libTVaudio/audio/DDP_media_source.cpp	/^void Aml_OMX_Codec::stop() {$/;"	f	class:android::Aml_OMX_Codec
+stop_decode_thread_omx	libTVaudio/audio/DDP_media_source.cpp	/^static int stop_decode_thread_omx(void) {$/;"	f	namespace:android
+stream	audio_hw.c	/^    struct audio_stream_in stream;$/;"	m	struct:aml_stream_in	typeref:struct:aml_stream_in::audio_stream_in	file:
+stream	audio_hw.c	/^    struct audio_stream_out stream;$/;"	m	struct:aml_stream_out	typeref:struct:aml_stream_out::audio_stream_out	file:
+stream	hdmi_audio_hw.c	/^  struct audio_stream_in stream;$/;"	m	struct:aml_stream_in	typeref:struct:aml_stream_in::audio_stream_in	file:
+stream	hdmi_audio_hw.c	/^  struct audio_stream_out stream;$/;"	m	struct:aml_stream_out	typeref:struct:aml_stream_out::audio_stream_out	file:
+stream	hdmi_hw.c	/^    struct audio_stream_out stream;$/;"	m	struct:aml_stream_out	typeref:struct:aml_stream_out::audio_stream_out	file:
+stream	usb_audio_hw.c	/^    struct audio_stream_in stream;$/;"	m	struct:aml_stream_in	typeref:struct:aml_stream_in::audio_stream_in	file:
+stream	usb_audio_hw.c	/^    struct audio_stream_out stream;$/;"	m	struct:aml_stream_out	typeref:struct:aml_stream_out::audio_stream_out	file:
+temp_buffer	libTVaudio/audio/aml_audio.c	/^    void *temp_buffer;$/;"	m	struct:aml_stream_in	file:
+temp_buffer	libTVaudio/audio/aml_audio.c	/^    void *temp_buffer;$/;"	m	struct:aml_stream_out	file:
+tmp_buffer_8ch	audio_hw.c	/^    int32_t *tmp_buffer_8ch;$/;"	m	struct:aml_stream_out	file:
+tmp_buffer_8ch	libTVaudio/audio/aml_audio.c	/^    int32_t *tmp_buffer_8ch;$/;"	m	struct:aml_stream_out	file:
+tmp_buffer_init	libTVaudio/audio/aml_audio.c	/^static int tmp_buffer_init(struct circle_buffer *tmp, int buffer_size) {$/;"	f	file:
+tmp_buffer_release	libTVaudio/audio/aml_audio.c	/^static int tmp_buffer_release(struct circle_buffer *tmp) {$/;"	f	file:
+tmp_buffer_reset	libTVaudio/audio/aml_audio.c	/^static int tmp_buffer_reset(struct circle_buffer *tmp) {$/;"	f	file:
+unload_EQ_lib	libTVaudio/audio/audio_effect_control.c	/^int unload_EQ_lib(void) {$/;"	f
+unload_SRS_lib	libTVaudio/audio/audio_effect_control.c	/^int unload_SRS_lib(void) {$/;"	f
+unlocked	libTVaudio/audio/DDP_media_source.cpp	/^void Aml_OMX_Codec::unlocked() {$/;"	f	class:android::Aml_OMX_Codec
+up_buf_provider	hdmi_audio_hw.c	/^  struct resampler_buffer_provider up_buf_provider;$/;"	m	struct:aml_stream_in	typeref:struct:aml_stream_in::resampler_buffer_provider	file:
+up_resampler	hdmi_audio_hw.c	/^  struct resampler_itfe *up_resampler;	\/\/shuai$/;"	m	struct:aml_stream_in	typeref:struct:aml_stream_in::resampler_itfe	file:
+up_resampler_buffer	hdmi_audio_hw.c	/^  char *up_resampler_buffer;$/;"	m	struct:aml_stream_in	file:
+update_echo_reference	audio_hw.c	/^static int32_t update_echo_reference(struct aml_stream_in *in, size_t frames)$/;"	f	file:
+update_echo_reference	hdmi_audio_hw.c	/^update_echo_reference (struct aml_stream_in *in, size_t frames)$/;"	f	file:
+update_pointer	libTVaudio/audio/aml_audio.c	/^inline void* update_pointer(char *current_pointer, int bytes,$/;"	f
+user_set_device	libTVaudio/audio/aml_audio.c	/^    int user_set_device;$/;"	m	struct:aml_stream_out	file:
+voip_mode	hdmi_audio_hw.c	/^  int voip_mode;$/;"	m	struct:aml_stream_in	file:
+volIndexToAmpl	hdmi_audio_hw.c	/^volIndexToAmpl (struct audio_stream_in *stream, int indexInUi)$/;"	f
+volume_index	hdmi_audio_hw.c	/^  int volume_index;$/;"	m	struct:aml_stream_in	file:
+wr	libTVaudio/audio/aml_audio.c	/^    unsigned int wr;$/;"	m	struct:buffer_status	file:
+wr	libTVaudio/audio/aml_audio.h	/^    char *wr;$/;"	m	struct:circle_buffer
+write_buffer	libTVaudio/audio/aml_audio.c	/^    void *write_buffer;$/;"	m	struct:aml_stream_in	file:
+write_threshold	audio_hw.c	/^    int write_threshold;$/;"	m	struct:aml_stream_out	file:
+write_threshold	hdmi_audio_hw.c	/^  int write_threshold;$/;"	m	struct:aml_stream_out	file:
+write_threshold	hdmi_hw.c	/^    int write_threshold;$/;"	m	struct:aml_stream_out	file:
+write_to_buffer	libTVaudio/audio/aml_audio.c	/^inline int write_to_buffer(char *current_pointer, char *buffer, int bytes,$/;"	f
+~Aml_OMX_Codec	libTVaudio/audio/DDP_media_source.cpp	/^Aml_OMX_Codec::~Aml_OMX_Codec() {$/;"	f	class:android::Aml_OMX_Codec
+~DDP_Media_Source	libTVaudio/audio/DDP_media_source.cpp	/^DDP_Media_Source::~DDP_Media_Source() {$/;"	f	class:android::DDP_Media_Source
+~DLGAudioPolicyManager	DLGAudioPolicyManager.h	/^    virtual ~DLGAudioPolicyManager() {}$/;"	f	class:android::DLGAudioPolicyManager
